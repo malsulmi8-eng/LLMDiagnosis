@@ -1,0 +1,86 @@
+1,Coronary heart disease (Angina pectoris), stable or unstable, DI1
+1,Myocardial Infarction, DI2
+1,Acute coronary syndrome (ACS), DI3
+1,Gastroesophageal reflux (GER), DI4
+2,Tick-borne disease (Rocky Mountain Spotted Fever), DI1
+2,Mycoplasma pneumonia, DI2
+2,Hantavirus, DI3
+3,Lung Adenocarcinoma and CNS Metastasis, DI1
+3,Carcinoma of the Lung with Metastasis, DI2
+3,Small cell lung cancer, DI3
+3,non-small cell lung cancer, DI4
+3,Metastatic disease to the lung, DI5
+4,Kawasaki disease, DI1
+4,infectious exanthemas of childhood, DI2
+4,reactions to drugs, DI3
+5,Pulmonary embolism, DI1
+5,Venous thromboembolism, DI2
+6,Diabetic foot ulcer, DI1
+6,Cellulitis, DI2
+6,Abscess, DI3
+7,Adverse reaction to zolpidem, DI1
+7,Zolpidem - lithium interaction, DI2
+7,Medical non-compliance, DI3
+7,Medication tolerance, DI4
+8,Creutzfeldt-Jakob disease (CJD), DI1
+8,progressive encephalitis with rigidity and myoclonus, DI2
+8,Alzheimer’s disease, DI3
+8,Huntington’s disease, DI4
+9,Acrochordons (skin tags), DI1
+9,dermal nevus, DI2
+9,seborrheic keratosis, DI3
+9,neurofibroma, DI4
+9,fibroepithelioma of Pinkus, DI5
+10,Acute limb ischemia, DI1
+10,Pseudoaneurysm, DI2
+10,Arteriovenous Fistula, DI3
+10,Dissection, DI4
+10,Thrombosis, DI5
+11,Hypovolemia, DI1
+11,Acute MI, DI2
+11,radiculopathy, DI3
+11,dehydration, DI4 
+11,arm claudication, DI5
+12,Primary hypothyroidism, DI1
+12,Secondary hypothyroidism, DI2
+12,Depression, DI3
+12,Anemia, DI4
+13,Postpartum cardiomyopathy, DI1
+13,pulmonary edema, DI2
+13,Postpartum thromboembolism (pulmonary embolism), DI3
+14,subdural hematoma, DI1
+14,encephalopathy, DI2
+14,hydrocephalus, DI3
+14,stroke, DI4
+14,delirium, DI5
+15,Hydatidiform mole (molar pregnancy), DI1
+15,Pelvic tumor, DI2
+16,rabies, DI1 
+16,encephalitis, DI2
+16,Delerium tremens, DI3
+16,Diphtheria, DI4
+16,Drug ingestion (phenothiazines and amphetamines), DI5
+16,Plant ingestion (Datura fastuosa), DI6
+16,Tetanus, DI7
+17,peritonitis, DI1
+17,nodular regenerative hyperplasia, DI2
+17,malignancy, DI3
+17,ascites, DI4
+18,Hemolysis and acute kidney injury, DI1
+18,Childhood Nephrotic Syndrome, DI2
+19,obstruction of the esophagus due to stricture, ring, or malignancy, DI1
+20,acute abdomen, DI1
+20,Abdominal Apoplexy, DI2
+21,Systemic lupus erythematosus (SLE), DI1
+22,Acute appendicitis, DI1
+23,acute exacerbation of chronic obstructive pulmonary disease (COPD), DI1
+24,Spleen rupture and intraperitoneal hemorrhage, DI1
+25,Traumatic Brain Injury, DI1
+26,malaria prophylaxis in pregnant women, DI1
+27,familial adenomatous polyposis (FAP), DI1
+28,hyperprolactinemia, DI1
+29,Osteoporosis prevention, DI1
+30,peripheral artery disease (PAD), DI1
+
+
+
