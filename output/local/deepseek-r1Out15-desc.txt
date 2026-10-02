@@ -1,0 +1,143 @@
+1,1. **Kidney Dysfunction/Chronic Kidney Disease**: 90-100 , NDI 
+1,2. **Dehydration/Cardiac Failure**: 80-90  
+1,3. **Hemolysis/Iron Deficiency/Acetal Red Cell Thrombocytopenia**: 80-70  
+2,1. **Viral Infection** - 90, NDI
+2,2. **Bacterial Infection** - 80
+2,3. **Other Conditions** - 20
+3,1. Acute sinusitis or nasal polyneuropathy, NDI  
+3,2. Chronic nasal obstruction  
+3,3. None
+4,1. **Left Ventricular Dysfunction**, NDI  
+4,2. **Osteoporosis**  
+4,3. **Renal Issues**  
+4,4. **Dialysis**  
+4,5. **Dementia**  
+4,6. **Seizures**  
+4,7. **Seizures**  
+4,8. **Hypothyroidism**  
+5,1. AnEURISMM (Aneurysm of the Leg) - 90  
+5,2. VASCULARITY - 80  
+5,3. FEVER - 70  , DI1
+5,4. MULTIPLE JOINT ISSUES - 60  
+6,1. Hypochromic Anemia - 90 , NDI 
+6,2. Anemia of the Kidney - 65  
+6,3. Nerve Compression or Hypothermia - 55  
+6,4. Chronic Diabetes or Hypothyroidism - 50  
+6,5. Dehydration or Low Blood Pressure - 45
+7,1. Sleep Apnea, NDI
+7,2. Bipolar Disorder
+7,3. No Other Appropriate Diagnosis
+8,1. Bedtime Snoring - 80
+8,2. Sleep Apnea - 20, DI1
+9,1. Shigella or Shigase Infection (Most Likely), NDI
+9,2. Autoimmune Disease (Unlikely, but Possible)
+9,3. Bacterial Infection (Unlikely, but Possible)
+10,1. **Apolipoprotein Deficiency (AOVc)**, NDI  
+10,2. **Apolipoprotein Deficiency with Periodic Ovulation Syndrome (POVS)**  
+10,3. **Ectopic Pregnancy**  
+11,1. Cold Allergy (65), NDI
+11,2. Chronic Inflammatory Disease (45)
+11,3. Cystic Fibrosis (30)
+11,4. Allergic Rhinitis (25)
+11,5. Cystic Fibrosis (30)
+11,6. Epigastric Inflammatory Disease (15)
+11,7. Allergic Atrophy (5)
+11,8. Cystic Fibrosis (30)
+11,9. Pseudogout (15)
+11,10. Allergic Tetrahymagogy (5)
+12,1. Fluid from IV line: 70, NDI  
+12,2. Nuchal rigidity: 80  
+12,3. Removing IV line: 65  
+12,4. PCMO (orbitomyosonosseus): 90  
+12,5. Noccal infection: 50  
+12,6. Hemorrhage: 75
+13,1. **Food in the mouth** - Confidence: 60, NDI
+13,2. **Throat sound** - Confidence: 30
+14,1. Iron Deficiency (85-90) , NDI 
+14,2. Polychromatosis and Eta Reticulocyte Abnormalities (75-80)  
+14,3. Cholic Acid Deficiency (60-70)
+15,1. Hypertension - 80, NDI  
+15,2. Diagnosed with other factors that may support hypertension - 70  
+15,3. Cardiacarrivity - 60  
+15,4. Other cause of stroke - 50  
+15,5. Possible underlying diabetes - 40  
+15,6. Other non-cardiac complications - 30  
+15,7. Other underlying cause - 20
+16,1. **Simple wheezing** - **Confidence Score: 70%**, NDI
+16,2. **Allergic rhinitis** - **Confidence Score: 60%**
+16,3. **Allergic rhinitis with wheezing in a young child** - **Confidence Score: 40%**
+17,1. HPV-related cancer: 100, NDI  
+17,2. Cancer history or other unexplained conditions: 75  
+17,3. Meningitis or other infections: 50  
+17,4. Other unexplained conditions: 25  
+18,1. **Pneumonia or Chronic Respiratory Distress Syndrome** , NDI 
+18,2. **Jugular Venous Distension**  
+18,3. **Pitting Ankle Edema**  
+19,1. **Wheezing (due to smoking and chronic cough)** - 70, NDI
+19,2. **Chronic Lung Disease/Airways Disease** - 60
+19,3. **Asthma** - 50
+19,4. **Chronic Bronchitis** - 40
+19,5. **Pneumonia** - 30
+19,6. **Chest Pain (barrel-shaped chest)** - 20
+20,1. **Multiple Sclerosis (MS)**, NDI
+20,2. **Alzheimer's Disease**
+20,3. **Aphasia**
+20,4. **Other Conditions**
+21,1. **Colon Cancer**: 95, NDI  
+21,2. **Colorectal Cancer**: 80  
+21,3. **Colorectal Polyeuritis**: 60  
+21,4. **Gastric Bloating (e.g., Gastroesophageal Reflux Disease)**: 40  
+21,5. **Iodine-Stained Stool Smear with Solid Straumata**: 30  
+21,6. **Iodine-Stained Stool Smear with Smooth Straumata (possible colon adenocarcinoma)**: 20  
+21,7. **Iodine-Stained Stool Smear with Smooth Straumata (possible adenocarcinoma)**: 15  
+21,8. **Iodine-Stained Stool Smear with Smooth Straumata (possible adenocarcinoma)**: 10  
+21,9. **Iodine-Stained Stool Smear with Smooth Straumata (possible adenocarcinoma)**: 5  
+21,10. **Iodine-Stained Stool Smear with Smooth Straumata (possible adenocarcinoma)**: 0  
+22,1. Pseudomonas aeruginosa (high confidence) - Based on sputum culture with septated hyphae and resistance patterns, indicating likely TB resistance. ,NDI
+22,2. Other gram-negative bacteria (low confidence) - Could fit but lacks the clear resistance profile seen in Pseudomonas.
+22,3. Cyst or cystic-obstructing mass (low confidence) - The movement of the mass is consistent with that, but Pseudomonas is the most likely due to the findings.
+22,4. Other pathogenic organisms (low confidence) - The sputum findings are more specific to Pseudomonas. , NDI
+23,1. **Bacterial infection (likely from an immunized child - 85-90 confidence)**
+23,2. **Viral infection (such as HIV - 70-75 confidence)**
+23,3. **Joint pain (likely from bacterial infection - 75 confidence)**
+24,1. **Chronic Bronchitis** , NDI 
+24,2. **Chronic Airway Obstruction**  
+24,3. **Other Conditions**  
+25,1. **Osteoporosis** - 75, DI1
+25,2. **Varicose Veins** - 60
+25,3. **Shock or Shock-associated Dyskeratosis** - 55
+26,1. **Ectopic Pregnancy** - 90, DI1  
+26,2. **Appendicitis Complications** - 80  
+26,3. **Other Appendicitis Complications** - 70  
+27,1. Dermatomal Heart Failure - 100 , NDI  
+27,2. Endocrine without a strong case - 70  
+27,3. Endocrine or Bundle of Wires - 50  
+27,4. Other - 40  
+27,5. Other - 10
+28,1. **Ticking- Borne Infection** - **80%**, NDI  
+28,2. **Inflammation** - **70%**  
+28,3. **Heat Shown** - **60%**  
+28,4. **Viral Infection** - **40%**  
+29,1. **Fungal Infection of the Thumb (FOT)** - 90, NDI  
+29,2. **Erythematheric Meningitis (EMT)** - 70
+30,1. T10 Dislocation of the Ulna - 95 , DI1  
+30,2. Ulnar Fixation Deficient - 80  
+30,3. Posterior Ulnar Dislocation - 75  
+30,4. Posterior Ulnar Fixation - 70  
+30,5. Posterior Radius Dislocation - 65  
+30,6. Posterior Radius Fixation - 60  
+30,7. Internal Rotation and Compression - 55  
+30,8. Internal Rotation - 50  
+30,9. Posterior Fixation - 45  
+30,10. Posterior Rotation - 40  
+30,11. Posterior Elongation - 35  
+30,12. Posterior Elongation Fixed - 30  
+30,13. Internal Fixation - 25  
+30,14. Internal Fixation of Radius - 20  
+30,15. Posterior Elongation Fixation - 15  
+30,16. Posterior Elongation Fixation of Radius - 10  
+30,17. Internal Fixation of Ulna - 5  
+30,18. Ulnar Internal Fixation - 4  
+30,19. Posterior Ulnar Internal Fixation - 3  
+30,20. Posterior Ulnar Internal Fixation of Radius - 2  
+30,21. Posterior Ulnar Internal Fixation of Ulna - 1

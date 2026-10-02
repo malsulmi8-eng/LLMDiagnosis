@@ -1,0 +1,123 @@
+1,1. **Coffee-Ground Emission**: 100% – Definitely the primary diagnosis., NDI
+1,2. **Tachycardia**: 80% – This is the most critical finding and likely the first to be considered.
+1,3. **Hypoxia and Hypotension**: 70% – Both are important and often present together, indicating potential issues like shock or metabolic problems.
+1,4. **Cool and Clammy Extremities**: 60% – These are secondary findings that could be part of shock or metabolic issues, though cool and clammy extremities are more indicative of shock.
+2,1. BACCC (basic, advanced, critical), NDI  
+2,2. Autoimmune disorders with BAA  
+2,3. Inflammatory conditions (e.g., HIV/AIDS)  
+2,4. Normal findings (fever and cough)
+3,1. **Bundle of Fibers Scan or Electrolyte Imbalance**, NDI  
+3,2. **Heart Attack**  
+3,3. **Chronic Inflammatory Bowel Disease (IBD)**  
+3,4. **Cardiac Arrhythmia**  
+4,1. **Bundle Branch Artery Blockage (BBA)** - 100% confidence, NDI
+4,2. **Hypocarpous Cardiomyopathy (HCC)** - 85% confidence
+4,3. **Myoclonic Seizures (MCS)** - 85% confidence
+4,4. **ST-segment Elevation and Hypertension** - 78% confidence
+4,5. **Other Heart Conditions or Arrhythmias** - 65% confidence
+5,1. Autoimmune response - 85, NDI  
+5,2. Viral infection - 75  
+5,3. Joints migrating - 65  
+5,4. Other conditions (e.g., bacterial infection, chlamydia) - 50
+6,1. **Liver Disease** - 90-80, NDI
+6,2. **Cataract** - 80-70
+6,3. **Anorexia Nervosa** - 60-50
+7,1. **Alzheimer's disease** - 90
+7,2. **Alzheimer's atypical presentation** - 85
+7,3. **Migraine** - 75
+7,4. **Geriatric brain disorders** - 70
+7,5. **Cerebral palsy** - 60
+7,6. **Epilepsy** - 55
+7,7. **Comadres** - 50
+7,8. **CVA artery disease** - 45
+8,1. Sleep Apnea (70), DI1  
+8,2. Restlessness (80)  
+8,3. Difficulty Concentrational Linkage (60)  
+8,4. Rest-Trouble (50)  
+8,5. Sleep Deprivation Syndrome (40)  
+8,6. Other Sleep Disorders (30)
+9,1. **Crohn's Disease** , NDI 
+9,2. **Inflammatory Bowel Disease (IBD)**  
+9,3. **Other Conditions**  
+10,1. Submersion or Seclusion of the Rectum Leading to Hemorrhage (IV Pen Use)  , NDI
+10,2. Ectopic Pregnancy  
+11,1. **Hyperuricemia** - 80-90, DI1
+11,2. **Chronic Kidney Disease** - 60-70
+12,1. **Nuchal rigidity** - 100%, NDI  
+12,2. **Hemorrhage and/or abscess with fever** - 80%  
+12,3. **Stroke or brain tumor** - 40%  
+12,4. **Other congenital anomalies (e.g., cleft lip, etc.)** - 20%  
+13,1. **Internal Ear Dysfunction**, NDI  
+13,2. **Gastroenteric Condition**  
+13,3. **Respiratory Tract Infection/Obstruction**  
+13,4. **Stable Internal Ear Condition**  
+13,5. **Gas Tract Issues**  
+14,1. Iron deficiency anemia, NDI
+14,2. Thrombocytopenia (due to bleeding or thrombocytopenia)
+14,3. Anemia in the blood (e.g., pheochromocytoma)
+15,Atherosclerotic cardiovascular disease  , NDI
+15,plexysus  
+15,stenosis  
+15,anemia  
+15,others
+16,1. Wheezing Due to Allergic Exposure (Confidence: 75)  , NDI
+16,2. Chronic Respiratory Tract Infections (Confidence: 50)  
+16,3. Pneumonia (Confidence: 40)  
+16,4. Bronchitis (Confidence: 35)  
+16,5. Bronchitis Without Exposure (Confidence: 10)
+17,1. **No Active Human Papilloma Virus** - 80, NDI
+17,2. **No Herpes V** - 70
+17,3. **Default normal results** - 60
+18,1. Pitting Edema & Crackles - 60-80 , NDI 
+18,2. Uveitis - 40-50  
+18,3. Other - 20-30  
+18,4. Non-organic - 10-20  
+19,1. **COPD (300)**  , DI1
+19,2. **Smoking-Induced Asthma (250)**  
+19,3. **Weight Loss (200)**  
+20,1. Myoclonic jerks with high confidence, NDI  
+20,2. Alzheimer's with high confidence  
+20,3. Traumatic brain injury with lower confidence  
+20,4. Personality disorders with lower confidence  
+20,5. Traumatic brain injury with lower confidence  
+20,6. Other potential causes with lower confidence
+21,1. Giardia - 100%  
+21,2. Giardiosis - 75%  , DI1
+21,3. Helicobacter pyloricis - 50%  
+21,4. Schonig mistaken virus - 25%
+22,1. pneumonia - 85  , NDI
+22,2. bronchitis - 75  
+22,3. TB infection - 70  
+22,4. less serious conditions - 60
+23,1. Viral Infection – 90 , NDI 
+23,2. HIV – 80  
+23,3. Chronic Inflammation – 70  
+23,4. Autoimmune Disease – 60  
+23,5. Underlying Condition (e.g., Sleep Apnea, Lung Disease) – 50
+24,1. Allergic Rhinitis: 85-90  
+24,2. Bronchitis: 70-75  
+24,3. Pneumonia: 60-65  , DI1
+24,4. Viral Infection: 55-60  
+24,5. Allergic Rhinitis: 85-90  
+25,1. **Osteomyelitis or Osteolytic lesion**: 80 , DI1 
+25,2. **Inflammatory Bowel Disease (IBD)**: 70  
+25,3. **Other Inflammatory Conditions**: <70  
+26,1. **Ectopic Pregnancy** - **Confidence Score: 100**, DI1
+26,2. **Pre-ejaculatory Fluid** - **Confidence Score: 85**
+26,3. **Fluid Clots or Adhesions** - **Confidence Score: 70**
+26,4. **Preeclampsia** - **Confidence Score: 35**
+27,1. Iron Deficiency (80), DI1
+27,2. Chronic Kidney Disease (40)
+27,3. Gastrointestinal Issues (30)
+28,1. Heat-related infection - 90, NDI
+28,2. Severe bacterial abscess - 80
+28,3. Pneumococcal pneumonia - 70
+28,4. Sepsis or abscess - 60
+28,5. Tinea cruris or absinthe - 50
+29,1. Strawberry Tongue - 90 , NDI 
+29,2. Viral Infection - 60  
+29,3. Allergic Reaction - 20
+30,1. Posterior elbow dislocation - 90, DI1
+30,2. Muscle weakness or instability in the arm - 40
+30,3. External injury or fall (but unlikely since arm is outstretched) - 20
+30,4. Paralysis or partial loss of arm function - 10

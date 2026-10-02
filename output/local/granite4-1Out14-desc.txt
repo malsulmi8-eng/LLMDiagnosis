@@ -1,0 +1,138 @@
+1,1. Acute Gastroesophageal Reflux Disease (GERD) - Confidence: 60, DI4
+1,2. Costochondritis - Confidence: 25
+1,3. Anxiety or panic attack - Confidence: 10
+1,4. Aortic dissection - Confidence: 5
+1,5. Pericarditis - Confidence: 2
+2,1. Bronchiolitis obliterans (Bronchiolitis Obliterans Organizing Pneumonia, BOOP) - Confidence: 85, NDI
+2,2. Acute Respiratory Distress Syndrome (ARDS) - Confidence: 70
+2,3. Pneumocystis jirovecii pneumonia (PCP) - Confidence: 60
+2,4. Community-acquired pneumonia (CAP) due to atypical pathogens (e.g., Mycoplasma pneumoniae) - Confidence: 55
+2,5. Asthma exacerbation - Confidence: 20
+2,6. Tuberculosis - Confidence: 5
+3,1. Primary pulmonary lymphoma (confidence 70)
+3,2. Lung adenocarcinoma (confidence 60), DI1
+3,3. Metastatic disease from an extrathoracic malignancy (confidence 55), DI5
+3,4. Pneumonia (confidence 20)
+3,5. Pulmonary embolism (confidence 15)
+4,1. Kawasaki Disease (Confidence: 95), DI1
+4,2. Toxic Shock Syndrome (Confidence: 60)
+4,3. Scarlet Fever (Confidence: 10)
+4,4. Meningococcemia (Confidence: 5)
+5,1. Pulmonary embolism (Confidence: 85), DI1
+5,2. Deep vein thrombosis (Confidence: 70), DI2
+5,3. Pneumonia (Confidence: 20)
+5,4. Pleural effusion (Confidence: 10)
+6,1. Cellulitis (confidence 85), DI2
+6,2. Necrotizing fasciitis (confidence 15)
+6,3. Ecthyma gangrenosum (confidence 5)
+7,1. Major Depressive Disorder (Confidence: 85)
+7,2. Bipolar Disorder, Depressive Episode (Confidence: 70)
+7,3. Anxiety Disorder, Generalized (Confidence: 60)
+7,4. Substance/Drug Induced Mood Disorder (Confidence: 40)
+7,   - Likely due to zolpidem (Confidence: 30), DI1
+7,5. Eating Disorder Not Otherwise Specified (EDNOS) / Binge Eating Disorder (Confidence: 25)
+7,   - Associated with weight struggles and eating issues (Confidence: 20)
+8,1. Primary Progressive Aphasia (PPA) - Confidence: 45
+8,2. Alzheimer's Disease (AD) - Confidence: 55, DI3
+8,3. Progressive Supranuclear Palsy (PSP) - Confidence: 20
+8,4. Corticobasal Degeneration (CBD) - Confidence: 10
+8,5. Creutzfeldt-Jakob Disease (CJD) - Confidence: 5, DI1
+9,1. Seborrheic Keratosis (Confidence: 85), DI3
+9,2. Milia (Confidence: 70)
+9,3. Pearly Penile Papules (Confidence: 5, applicable only if lesions are on the genital area)
+9,4. Benign Papular Dermatosis (Confidence: 5, applicable only if lesions have a different distribution)
+9,5. Benign Molluscum Contagiosum (Confidence: 3, if lesions have umbilicated centers)
+9,6. Pigmented Nevus (Confidence: 2, if lesions are uniformly pigmented without texture variation)
+9,7. Basal Cell Carcinoma (Confidence: 1, if lesions show any atypical features such as bleeding, ulceration, or rapid growth)
+10,1. Posterior tibial artery dissection (Confidence: 85), DI4
+10,2. Retrograde arterial embolization (Confidence: 60)
+10,3. Aneurysm formation at the puncture site (Confidence: 50)
+10,4. Compartment syndrome of the right leg (Confidence: 30)
+10,5. Deep vein thrombosis with ilio-femoral extension (Confidence: 20), DI5
+11,1. Myocardial Infarction (MI) – Confidence: 85, DI2
+11,2. Aortic Dissection – Confidence: 15
+11,3. Pulmonary Embolism (PE) – Confidence: 5
+11,4. Gastrointestinal (GI) Bleeding – Confidence: 2
+12,1. Congenital hypothyroidism (confidence: 85), DI1
+12,2. Postpartum thyroiditis (confidence: 15)
+12,3. Graves' disease (confidence: 5)
+13,1. Pneumonia (score: 75)  
+13,2. Asthma exacerbation (score: 60)  
+13,3. Pulmonary embolism (score: 45), DI3  
+13,4. Anxiety or panic disorder (score: 30)  
+13,5. Gastroesophageal reflux disease (score: 20)
+14,1. Subdural hematoma (confidence 85), DI1
+14,2. Intracranial pressure elevation (confidence 70)
+14,3. Stroke (confidence 60), DI4
+14,4. Migraine (confidence 20)
+14,5. Concussion (confidence 10)
+15,1. Fibroid degeneration (85), NDI
+15,2. Vesicular mole (15)
+16,1. Botulism (confidence 95), NDI
+16,2. Guillain‑Barré Syndrome (confidence 70)
+16,3. Lyme disease with post‑treatment neurologic complications (confidence 30)
+17,1. Ruptured hepatic abscess (90), NDI
+17,2. Bacteremia due to oral flora (70)
+17,3. Complicated intra-abdominal infection (60)
+17,4. Gallbladder perforation (40)
+17,5. Acute pancreatitis (30)
+18,1. Acute Kidney Injury (AKI) due to Prerenal Causes (Confidence: 90%), DI1
+18,2. Acute Tubular Necrosis (ATN) (Confidence: 60%)
+18,3. Obstructive Uropathy (Confidence: 30%)
+19,1. Esophageal Stricture (Confidence: 85), DI1
+19,2. Esophageal Cancer (Confidence: 70)
+19,3. Achalasia (Confidence: 15)
+19,4. Gastroesophageal Reflux Disease (GERD) with Barrett’s esophagus (Confidence: 5)
+20,1. Evisceration (Abdominal compartment syndrome) – Confidence: 85, NDI
+20,2. Perforated viscus (e.g., bowel rupture) – Confidence: 70
+20,3. Multiple blunt abdominal trauma with intra-abdominal hemorrhage – Confidence: 60
+20,4. Contused liver or other hepatic injury – Confidence: 45
+20,5. Splenic rupture – Confidence: 40
+20,6. Ruptured renal abscess or stone – Confidence: 30
+20,7. Gastrointestinal bleed from ulcer or hemorrhagic disease – Confidence: 20
+20,8. Non-specific soft tissue injury or strain – Confidence: 5
+21,1. Systemic Lupus Erythematosus (SLE) – Confidence 95, DI1
+21,2. Cutaneous Lupus (Discoid or Subacute) – Confidence 30
+21,3. Sjögren’s Syndrome – Confidence 15
+21,4. Polyarteritis Nodosa (PAN) – Confidence 10
+21,5. Rheumatoid Arthritis (RA) – Confidence 5
+22,1. Acute Appendicitis (90), DI1
+22,2. Chronic Appendicitis (20)
+22,3. Ectopic Pregnancy (5)
+22,4. Ovarian torsion (3)
+22,5. Intestinal obstruction (2)
+23,1. Community Acquired Pneumonia (CAP) – Confidence: 85
+23,2. COPD Exacerbation – Confidence: 70, DI1
+23,3. Bronchiectasis – Confidence: 30
+23,4. Pulmonary Embolism (PE) – Confidence: 15
+24,1. Spleen Rupture (Confidence: 95), DI1
+24,2. Blunt Abdominal Trauma (Confidence: 80)
+24,3. Hemorrhagic Shock (Confidence: 85)
+24,4. Splenic Contusion (Confidence: 70)
+24,5. Aortic Injury (Confidence: 60)
+25,1. Subdural hematoma (Confidence: 85)
+25,2. Intracranial hemorrhage (Confidence: 80)
+25,3. Traumatic brain injury (Confidence: 75), DI1
+25,4. Concussion (Confidence: 60)
+25,5. Cerebral edema (Confidence: 55)
+26,1. Malaria (Confidence: 95), DI1
+26,2. Dengue Fever (Confidence: 60)
+26,3. Yellow Fever (Confidence: 30)
+26,4. Chikungunya (Confidence: 20)
+26,5. Zika Virus (Confidence: 10)
+27,1. Familial Adenomatous Polyposis (FAP) – Confidence 95, DI1
+27,2. Colorectal Cancer – Confidence 5
+27,3. Inflammatory Bowel Disease (e.g., Ulcerative Colitis) – Confidence 5
+27,4. Hereditary Non-Pyrogenic Inflammatory Bowel Disease (HNPICID) – Confidence 5
+27,5. Sporadic Colorectal Cancer – Confidence 5
+28,1. Prolactinoma (Confidence: 85), NDI
+28,2. Primary breast cancer (Confidence: 60)
+28,3. Fibrocystic breast disease (Confidence: 20)
+29,1. Osteoporosis (90), DI1
+29,2. Secondary osteoporosis due to menopause (70)
+29,3. Osteogenesis imperfecta (20)
+29,4. Nutritional osteoporosis (10)
+30,1. Chronic Peripheral Artery Disease (PAD) – Confidence 85, DI1
+30,2. Critical Limb Ischemia (CLI) – Confidence 60
+30,3. Myocardial Infarction (MI) recurrence – Confidence 40
+30,4. Transient Ischemic Attack (TIA) recurrence – Confidence 20

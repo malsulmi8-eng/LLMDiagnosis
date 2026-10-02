@@ -1,0 +1,106 @@
+1,1. Acute gastroenteritis, NDI  
+1,2. Severe dehydration  
+1,3. Heart failure  
+1,4. Aspiration  
+1,5. Gastrointestinal obstruction
+2,1. Viral infection, NDI  
+2,2. Owl's eye inclusion bodies
+3,1. Displaced femur  
+3,2. Pericardial disease  
+3,3. Right-sided chest injury  
+3,4. Pulmonary embolism, DI1
+4,1. MI (strong) , DI1 
+4,2. Right heart failure (medium)  
+4,3. Left ventricular dysfunction (weak)
+5,1. Rheumatoid arthritis, NDI  
+5,2. Influenza  
+5,3. Viral infection
+6,1. Cushing's disease, NDI  
+6,2. Multiple sclerosis  
+6,3. IBS  
+7,1. Depression  , DI1
+7,2. Anxiety  
+7,3. Chronic fatigue syndrome
+8,1. Sleep apnea , DI1 
+8,2. Sleep disorders (e.g., narcolepsy)  
+8,3. Obstructive sleep apnea  
+8,4. Sleep deprivation  
+8,5. Sleep-related neurological disorders  
+9,1. Viral illness, NDI  
+9,2. Heart failure  
+9,3. Congenital heart disease  
+9,4. Pneumonia  
+9,5. Eosinophilic fever
+10,1. Ovulatory disorders  
+10,2. Endometriosis  , DI1
+10,3. Ectopic pregnancy (if implantation bleeding is directly related)
+11,1. Spinal cord injury or spondylosis  , NDI
+11,2. Eczema  
+11,3. Eating disorder  
+11,4. Parkinson's disease
+12,1. Skull fracture  
+12,2. Meniscus injury  
+12,3. Meniscal injury  
+12,4. Meningitis, DI1
+13,1. Choking  , NDI
+13,2. Foreign Body Ingestion  
+13,3. Trauma
+14,1. Iron deficiency anemia  , NDI
+14,2. Anemia in second pregnancy  
+14,3. Liver disease  
+14,4. Reticulocyte count issue
+15,[heart failure, arrhythmias], NDI
+16,1. Asthma  
+16,2. Bronchitis  
+16,3. Foreign body  , DI1
+16,4. Allergic rhinitis (renewed)  
+16,5. Sinus infection
+17,1. Cervical cancer  , DI1
+17,2. Other viral infection (e.g., genital herpes)  
+17,3. Benign cervical Pap smear abnormality  
+17,4. Pap smear test result unrelated to infection or cancer  
+18,1. Pulmonary edema  , NDI
+18,2. Chronic obstructive pulmonary disease (COPD) 
+18,3. Emphysema
+19,1. COPD  , DI1
+19,2. Asthma  
+19,3. Emphysema
+20,1. Alzheimer's disease  , NDI
+20,2. Multiple sclerosis (MS)  
+20,3. Stroke or traumatic brain injury  
+21,1. Giardiasis  , DI1
+21,2. Cryptosporidiosis  
+21,3. Enteric protozoal infection (e.g., Giardia)  
+21,4. Parasitic infection (e.g., whipworm)  
+22,1. TB  , NDI
+22,2. Lung cancer  
+22,3. Foreign body  
+22,4. Pulmonary nodule  
+23,1. Viral infection (e.g., influenza)  , NDI
+23,2. Bacterial infection  
+23,3. Sepsis  
+23,4. Severe systemic illness (e.g., septic shock)  
+24,1. Bronchitis  
+24,2. Pneumonia , DI1 
+24,3. COPD exacerbation  
+24,4. Asthma  
+24,5. Emphysema
+25,1. Osteosarcoma  , NDI
+25,2. Slip FEMUR  
+25,3. Fracture
+26,1. Non-ruptured ectopic pregnancy  , DI1
+26,2. Appendectomy  
+26,3. Tuberous pregnancy with adhesions
+27,1. Anemia (iron deficiency)  , DI1
+27,2. Heart disease (systolic murmur)  
+27,3. Vitamin B12 deficiency
+28,1. Tick-borne infection  , NDI
+28,2. Bacterial infection  
+28,3. Septic arthritis
+29,1. Measles  , NDI
+29,2. Mumps  
+29,3. Scarlet fever  
+29,4. Chickenpox
+30,1. **Humeral Dislocation**  , NDI
+30,2. **Humeral Fracture**  
+30,3. **Radial Dislocation**

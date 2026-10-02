@@ -1,0 +1,243 @@
+1,1.  Hemorrhagic Shock (Confidence: 95)
+1,2.  Gastrointestinal Bleeding (Confidence: 90)
+1,3.  Severe Dehydration (Confidence: 85)
+1,4.  Acute Kidney Injury (Confidence: 70)
+1,5.  Pulmonary Embolism (Confidence: 60)
+1,6.  Cardiac Tamponade (Confidence: 40)
+1,7.  Septic Shock (Confidence: 30), DI1
+1,8.  Drug Overdose (Confidence: 20)
+1,9.  Pancreatitis (Confidence: 10)
+1,10. Acute Myocardial Infarction (Confidence: 5)
+2,1.  Progressive Pulmonary Bruit (Confidence: 95), NDI
+2,2.  Lymphoma (Confidence: 90)
+2,3.  Sarcoidosis (Confidence: 85)
+2,4.  Tuberculosis (Confidence: 75)
+2,5.  Fungal infection (Confidence: 70)
+2,6.  Viral pneumonia (Confidence: 60)
+2,7.  Drug reaction (Confidence: 50)
+2,8.  Autoimmune disease (Confidence: 40)
+2,9.  Other (Confidence: 10)
+3,1.  Pulmonary Embolism (PE) - 90, DI1
+3,2.  Pneumothorax - 60
+3,3.  Myocardial Infarction (MI) - 50
+3,4.  Pleurisy - 40
+3,5.  Costochondritis - 30
+3,6.  Tension Pneumothorax - 20
+3,7.  Pericarditis - 10
+3,8.  Esophageal Rupture - 5
+3,9.  Diaphragmatic Hernia - 2
+3,10. Acute Coronary Syndrome (ACS) - 1
+4,1.  Acute Myocardial Infarction (AMI) - 95, DI1
+4,2.  Pericarditis - 20
+4,3.  Aortic Dissection - 10
+4,4.  Esophageal Rupture - 5
+4,5.  Musculoskeletal Chest Pain - 1
+5,1.  Rheumatoid Arthritis (Confidence: 70), NDI
+5,2.  Viral Arthritis (Confidence: 60)
+5,3.  Reactive Arthritis (Confidence: 50)
+5,4.  Psoriatic Arthritis (Confidence: 40)
+5,5.  Systemic Lupus Erythematosus (Confidence: 30)
+5,6.  Spondyloarthropathy (Confidence: 20)
+5,7.  Sarcoidosis (Confidence: 10)
+5,8.  Inflammatory Bowel Disease (Confidence: 5)
+5,9.  Other Autoimmune Condition (Confidence: 5)
+5,10. Infectious Arthritis (Confidence: 5)
+6,1.  Hyperthyroidism (95)
+6,2.  Graves' disease (90), DI1
+6,3.  Thyroid eye disease (85)
+6,4.  Acromegaly (10)
+6,5.  Other thyroid disorders (5)
+6,6.  Psychiatric disorders (5)
+7,1.  Major Depressive Disorder (95), DI1
+7,2.  Anxiety Disorder (75)
+7,3.  Adjustment Disorder with Depressed Mood (70)
+7,4.  Bipolar Disorder, Depressed Phase (60)
+7,5.  Attention-Deficit/Hyperactivity Disorder (ADHD) (50)
+7,6.  Medical Condition (e.g., Hypothyroidism) (40)
+7,7.  Substance Use Disorder (e.g., Alcohol or Drug Use) (30)
+7,8.  Post-Traumatic Stress Disorder (PTSD) (25)
+7,9.  Somatoform Disorder (20)
+7,10. Delusional Disorder (10)
+8,1.  Obstructive Sleep Apnea (OSA) - 95, DI1
+8,2.  Narcolepsy - 70
+8,3.  Attention-Deficit/Hyperactivity Disorder (ADHD) - 60
+8,4.  Restless Legs Syndrome (RLS) - 50
+8,5.  Hypothyroidism - 40
+8,6.  Anxiety Disorder - 30
+8,7.  Somnambulism - 20
+8,8.  Idiopathic Hypersomnia - 10
+9,1.  Toxoplasmosis: 80
+9,2.  Echinococcosis: 60
+9,3.  Trichinellosis: 95, DI1
+9,4.  Other parasitic infection: 40
+9,5.  Viral infection: 30
+9,6.  Bacterial infection: 20
+9,7.  Drug reaction: 10
+9,8.  Autoimmune disease: 10
+9,9.  Cancer: 5
+9,10. Other: 5
+10,1.  Endometriosis (95), DI1
+10,2.  Adenomyosis (85)
+10,3.  Uterine fibroids (75)
+10,4.  Polyps (65)
+10,5.  Dysfunctional uterine bleeding (55)
+10,6.  Pelvic inflammatory disease (PID) (45)
+10,7.  Thyroid dysfunction (30)
+10,8.  Other (10)
+11,1. Hypothyroidism (Confidence: 95), DI1
+11,2. Sjogren's Syndrome (Confidence: 75)
+11,3. Alpha-1 Antitrypsin Deficiency (Confidence: 50)
+11,4. Parkinson's Disease (Confidence: 20)
+11,5. Depression (Confidence: 10)
+12,1.  Meningitis (Confidence: 95), DI1
+12,2.  Subarachnoid hemorrhage (Confidence: 85)
+12,3.  Migraine (Confidence: 30)
+12,4.  Tension headache (Confidence: 20)
+12,5.  Sinusitis (Confidence: 10)
+13,1.  Croup (Confidence: 95)
+13,2.  Epiglottitis (Confidence: 85), DI1
+13,3.  Bacterial Tracheitis (Confidence: 70)
+13,4.  Foreign Body Aspiration (Confidence: 60)
+13,5.  Anaphylaxis (Confidence: 40)
+13,6.  Peritonsillar Abscess (Confidence: 30)
+13,7.  Retropharyngeal Abscess (Confidence: 20)
+13,8.  Torticollis (Confidence: 10)
+13,9.  Asthma (Confidence: 5)
+13,10. Viral Pharyngitis (Confidence: 2)
+14,1.  Hemolytic Anemia (Confidence: 95)
+14,2.  Iron Deficiency Anemia (Confidence: 10)
+14,3.  Thalassemia (Confidence: 75)
+14,4.  Sickle Cell Anemia (Confidence: 50)
+14,5.  Autoimmune Hemolytic Anemia (Confidence: 30)
+14,6.  Paroxysmal Nocturnal Hemoglobinuria (PNH) (Confidence: 20), DI1
+14,7.  Lead Poisoning (Confidence: 10)
+14,8.  Other Causes of Hemolysis (Confidence: 10)
+15,1.  Atrial fibrillation (Confidence: 90), DI1
+15,2.  Valvular heart disease (Confidence: 60)
+15,3.  Hyperthyroidism (Confidence: 40)
+15,4.  Anemia (Confidence: 30)
+15,5.  Coronary artery disease (Confidence: 20)
+15,6.  Pulmonary embolism (Confidence: 10)
+15,7.  Heart failure (Confidence: 10)
+16,1.  Asthma exacerbation (95)
+16,2.  Foreign body aspiration (70), DI1
+16,3.  Viral upper respiratory infection (60)
+16,4.  Reactive airway disease (50)
+16,5.  Bronchiolitis (40)
+16,6.  Croup (30)
+16,7.  Pneumonia (20)
+16,8.  Allergic reaction (10)
+17,1.  Condyloma acuminata: 95, NDI
+17,2.  HPV infection: 90
+17,3.  Adenocarcinoma in situ: 60
+17,4.  Squamous cell carcinoma: 50
+17,5.  Benign epithelial hyperplasia: 40
+17,6.  Warts: 30
+17,7.  Vulvar intraepithelial neoplasia: 20
+17,8.  Lichen sclerosus: 10
+18,1.  Heart Failure (Confidence: 90), DI1
+18,2.  Chronic Obstructive Pulmonary Disease (COPD) (Confidence: 60)
+18,3.  Pulmonary Hypertension (Confidence: 40)
+18,4.  Nephrotic Syndrome (Confidence: 20)
+18,5.  Amyloidosis (Confidence: 10)
+19,1.  COPD (Confidence: 95), DI1
+19,2.  Lung Cancer (Confidence: 85)
+19,3.  Heart Failure (Confidence: 60)
+19,4.  Pneumonia (Confidence: 50)
+19,5.  Bronchiectasis (Confidence: 40)
+19,6.  Interstitial Lung Disease (Confidence: 30)
+19,7.  Tuberculosis (Confidence: 20)
+19,8.  Pulmonary Embolism (Confidence: 10)
+19,9.  Asbestosis (Confidence: 10)
+19,10. Sarcoidosis (Confidence: 5)
+20,1.  Alzheimer's disease (95)
+20,2.  Frontotemporal dementia (60)
+20,3.  Parkinson's disease (40)
+20,4.  Vascular dementia (50)
+20,5.  Lewy body dementia (70)
+20,6.  Creutzfeldt-Jakob disease (85), DI1
+20,7.  Normal pressure hydrocephalus (45)
+20,8.  Subcortical vascular dementia (40)
+20,9.  Mixed dementia (65)
+20,10. Korsakoff's syndrome (30)
+21,1.  Giardiasis (Confidence: 95), DI1
+21,2.  Cryptosporidiosis (Confidence: 85)
+21,3.  Entamoeba histolytica infection (Confidence: 75)
+21,4.  Amphizoon intestinalis infection (Confidence: 50)
+22,1.  Aspergilloma (Confidence: 95), DI1
+22,2.  Fungal infection (Confidence: 85)
+22,3.  Lung cancer (Confidence: 60)
+22,4.  Tuberculosis (Confidence: 50)
+22,5.  Bronchiectasis (Confidence: 40)
+22,6.  Cavitary lung disease (Confidence: 30)
+22,7.  Other fungal infections (Confidence: 20)
+22,8.  Post-infectious changes (Confidence: 10)
+22,9.  Sarcoidosis (Confidence: 5)
+22,10. Pneumoconiosis (Confidence: 2)
+23,1.  Dengue Fever (Confidence: 95), DI1
+23,2.  Malaria (Confidence: 85)
+23,3.  Typhoid Fever (Confidence: 70)
+23,4.  Leptospirosis (Confidence: 60)
+23,5.  Viral Hemorrhagic Fever (Confidence: 40)
+23,6.  Other Viral Infections (Confidence: 30)
+24,1.  Pneumonia (95), DI1
+24,2.  Bronchitis (85)
+24,3.  Pleurisy (70)
+24,4.  Asthma (60)
+24,5.  COPD (50)
+24,6.  Pulmonary Embolism (30)
+24,7.  Tuberculosis (20)
+24,8.  Lung Cancer (10)
+25,1.  Osteosarcoma - 90, NDI
+25,2.  Benign bone tumor - 60
+25,3.  Bone infection - 40
+25,4.  Rheumatoid arthritis - 20
+25,5.  Juvenile idiopathic arthritis - 20
+25,6.  Lyme disease - 10
+25,7.  Leukemia - 10
+25,8.  Metastatic cancer - 10
+25,9.  Transient synovitis - 5
+25,10. Osgood-Schlatter disease - 5
+26,1.  Ectopic pregnancy (95), DI1
+26,2.  Adhesions (80)
+26,3.  Ovarian cyst (60)
+26,4.  Pelvic inflammatory disease (PID) (50)
+26,5.  Mittelschmerz (30)
+26,6.  Other gynecological conditions (10)
+27,1.  Iron Deficiency Anemia: 95, DI1
+27,2.  Anemia of Chronic Disease: 50
+27,3.  Thalassemia: 40
+27,4.  Hemolytic Anemia: 20
+27,5.  Vitamin B12 Deficiency: 10
+27,6.  Folate Deficiency: 10
+27,7.  Acute Blood Loss: 5
+27,8.  Chronic Blood Loss: 5
+27,9.  Lead Poisoning: 1
+27,10. Autoimmune Hemolytic Anemia: 1
+27,11. Sickle Cell Anemia: 1
+27,12. Aplastic Anemia: 1
+28,1.  Reactive arthritis (Confidence: 70)
+28,2.  Septic arthritis (Confidence: 60)
+28,3.  Transient synovitis (Confidence: 50)
+28,4.  Osteomyelitis (Confidence: 40)
+28,5.  Juvenile idiopathic arthritis (Confidence: 30)
+28,6.  Lyme disease (Confidence: 65), DI1
+28,7.  Other tick-borne illness (Confidence: 55)
+28,8.  Growing pains (Confidence: 10)
+28,9.  Overuse injury (Confidence: 5)
+28,10. Osgood-Schlatter disease (Confidence: 2)
+29,1.  Kawasaki Disease (Confidence: 95), DI1
+29,2.  Viral Exanthem (Confidence: 60)
+29,3.  Scarlet Fever (Confidence: 50)
+29,4.  Toxic Shock Syndrome (Confidence: 20)
+29,5.  Rocky Mountain Spotted Fever (Confidence: 10)
+30,1.  Posterior elbow dislocation (Confidence: 100), DI1
+30,2.  Radial head fracture (Confidence: 80)
+30,3.  Radial nerve injury (Confidence: 70)
+30,4.  Ulnar nerve injury (Confidence: 60)
+30,5.  Medial epicondylitis (Confidence: 40)
+30,6.  Lateral epicondylitis (Confidence: 40)
+30,7.  Osteoarthritis (Confidence: 30)
+30,8.  Tendonitis (Confidence: 20)
+30,9.  Compartment syndrome (Confidence: 10)
+30,10. Acromioclavicular (AC) joint separation (Confidence: 10)

@@ -1,0 +1,149 @@
+1,- Hypothyroidism: 5  , NDI
+1,- Hypertension: 30  
+1,- Obesity: 30  
+1,- Episodic ChestPain: 5  
+1,- MuscleAtrophy: 5  
+1,- PseudoxanthomaElasticum: 30  
+1,- LumbarStruthion: 5  
+1,- Vascularity: 5
+2,1. Pneumonia - 80, DI2
+2,2. Croup - 70
+2,3. Meningitis - 60
+2,4. Meningo Neither - 50
+2,5. Influenza - 40
+2,6. Tetranucleosis - 30
+3,1. Right frontal lobe mass: 75
+3,2. Left lung mass: 50, DI3
+3,3. Urothelialization: 50
+3,4. benign lesion: 30
+3,5. Cyst: 25
+3,6. Nodular tumor: 20
+3,7. Malignant melanoma: 15
+3,8. Carcinoma: 10
+3,9. Benign tumor: 5
+3,10. Unknown: 0
+4,1. High Blood Pressure - 95, NDI  
+4,2. Infection (e.g., Norovirus or Chikungunya) - 85  
+4,3. Pneumonia or Abscess - 75  
+4,4. Allergic Reactions (e.g., strawberry tongue, desquamation) - 60  
+4,5. Abscess - 50  
+5,1. **CABG (Chest-Armachyeletic Angioma)** - **Confidence Score: 90**, NDI  
+5,2. **Varicose Veins** - **Confidence Score: 70**  
+5,3. **Chronic Kidney Disease** - **Confidence Score: 0**  
+6,1. **Type 2 Diabetes Mellitus** - 80-90, NDI
+6,2. **Type 1 Diabetes Mellitus** - 60-70
+6,3. **Pseudoglycemia** - 30-40
+6,4. **Hypoglycemia** - 10-20
+7,1. Bipolar Disorder - 50-70  , NDI
+7,2. Depression - 50-70  
+7,3. Mood Disorders - 60-80  
+8,1. Hemi-oedema (moderate - 60)
+8,2. Alzheimer's with hemi-oedema (high - 80), DI3
+8,3. Other pathologies (low - 20)
+9,1. Cerebral Palsy - 20  , NDI
+9,2. Menelaus' Lethalities - 30  
+9,3. Acute Vaginal Inflammation - 25  
+9,4. Cystitis - 15  
+9,5. Menorrhagism - 10  
+9,6. Cerebral Palsy - 20  
+9,7. Menelaus' Lethalities - 30  
+9,8. Menorrhagism - 10  
+10,1. Hematinous Femoral Abscess - 90%, NDI  
+10,2. Hemolytic Anemia - 70%
+11,1. **Varicose Veins** - 90  , NDI
+11,2. **Menopausal Symptoms** - 80  
+11,3. **Other Conditions** - 70
+12,1. Metabolic Syndrome - 90  
+12,2. Hormonal Imbalance (e.g., Low Testosterone) - 85  
+12,3. Warts - 80  
+12,4. Type 2 Diabetes - 75  
+12,5. Hyperthyroidism - 70, DI1  
+13,1. Preeclampsia - 100%  , NDI
+13,2. Acute Hypoxemic Encephalopathy - 70%  
+13,3. Hypovolemia - 70%  
+13,4. Hypoplasia - 50%  
+13,5. Hypoxia - 50%  
+13,6. Hypertension - 40%  
+13,7. Severe Congenital or Life-Span Causes - 30%  
+13,8. Other Conditions - 30%  
+13,9. Malignant Pseudocytosis - 20%  
+13,10. Other Life-Span Conditions - 20%  
+13,11. Other Preeclampsia - 10%  
+13,12. No Other Likely Diagnoses - 10%
+14,1. **Traumatic Brain Injury (TBI)** - 85%, NDI
+14,2. **Multiple Concussions** - 75%
+14,3. **Nothing Else** - 0%
+15,1. Ectopic Pregnancy (High Confidence) – The patient's age, lack of a negative urine pregnancy test, and the presence of localized abdominal tenderness and enlarged uterus strongly suggest an ectopic pregnancy, though not definitive.
+15,2. Vesicular Mole and Fibroid Degeneration (High Confidence) – The ultrasound findings align well with signs of fibroids, though not definitive., DI1
+15,3. Vaginal Incision Findings (Low Confidence) – Abdominal tenderness and enlarged uterus are consistent with ectopic pregnancy findings, not definitive.
+15,4. Other Findings (Low Confidence) – The negative urine pregnancy test does not support other findings, as it's not associated with them.
+16,1. **Multiple Spleen Cell Group (MS) with Traumatic Brain Injury** - **85%**, NDI
+16,2. **Hemolytic Anemia** - **60%**
+17,1. **Acute Lymphoblastic Monocytosis (ALM)** - **85-100%**  , NDI
+17,2. **Acute Lymphoblastic Anemia (ABL)** - **60-70%**  
+17,3. **Common Variable Immunodeficiency** - **30-40%**  
+17,4. **Serum IgG** - **20-30%**  
+17,5. **Serum IgM** - **20-30%**  
+17,6. **Serum IgH** - **10-20%**  
+17,7. **Serum IGF E** - **10-20%**  
+17,8. **Serum IL-23** - **10-20%**  
+18,1. Shock - 80, NDI
+18,2. Allergic reaction or new infection - 50
+19,- Chronic Obstructive Pulmonary Disease (COPD) - 60 , NDI 
+19,- Chronic Lung Disease (e.g., chronic bronchitis, pseudo-bronchitis) - 60  
+19,- Potential underlying cause of weight loss - 40  
+19,- Other chronic respiratory conditions - 30
+20,1. Delirium Treated (DT) - 40, NDI
+20,2. Traumatic Brain Injury (TBI) - 70
+20,3. Traumatic Brain Injury with Fractures (TBI-F) - 30
+20,4. Fractures with Delirium - 20
+20,5. Car Accident Involving Leg - 50
+20,6. Spinal Cord Injuries (SCI) - 40
+20,7. Contuseurized Injuries ( Concussions) - 20
+20,8. Severe Combined Traumatic Brain Injury (CTBI) - 40
+20,9. Episodic Traumatic Brain Injury (ETBI) - 10
+20,10. Nonspecific Pain - 10
+21,1. **Infection**: The presence of blood in RBC casts (positive for anti-DNA) and the butterfly-shaped facial rash suggest an infection.  , NDI
+21,2. **Autoimmune Diseases**: The patient is a 21-year-old, which may make them susceptible to autoimmune diseases, though the symptoms are more consistent with viral or bacterial infections.  
+21,3. **Cancer**: While the symptoms may overlap with cancer, the presentation (prograde arthralgias, fatigue, and face rash) is more characteristic of an infection or autoimmune disease.  
+22,1. **Appendicititis** - 90, DI1  
+22,2. **Celiac Disease** - 80  
+22,3. **Gamma-Lactamase Inactivated** - 70  
+22,4. **Pancreatic Infiltration** - 60  
+22,5. **Pancreatic Mass** - 50  
+22,6. **Liver Disease** - 40  
+22,7. **Malignant Bacteria** - 30  
+22,8. **Decreased Appetite** - 20  
+22,9. **Other Unlikely Conditions** - 10
+23,1. Pneumonia (100)  
+23,2. Chronic obstructive pulmonary disease (COPD) (80)  , DI1
+23,3. Chronic lung disease (40)  
+23,4. Severe pulmonary fibrosis (20)  
+23,5. Other conditions (0)
+24,Dehydration and hemolysis  , NDI
+24,Underlying causes (stroke or pericarditis)  
+24,Intra-peritoneal hemorrhage  
+25,1. Traumatic Brain Injury (TBI) without a helmet – 95  , DI1
+25,2. Traumatic Brain Injury due to a fall – 70  
+25,3. Traumatic Brain Injury without a brain shield – 70  
+25,4. Hypertension and shock – 55  
+25,5. Severe Traumatic Brain Injury – 30  
+25,6. Traumatic Brain Injury with a brain shield – 20  
+25,7. Traumatic Brain Injury with a brain tissue shunt – 10
+26,1. Pneumovirus - 85  , NDI
+26,2. Pneumococcal infection - 70  
+26,3. Varicella - 55  
+26,4. Other conditions - 40  
+26,5. Other viral infections - 35  
+26,6. All-likely - 25
+27,1. Polyps - 70  , DI1
+27,2. Adenoids - 90  
+27,3. Endometrial hyperemesis gravidarum - 60  
+27,4. Adenoids (less likely) - 30
+28,1. **Pseudocentesis with elevated prolactin level** , NDI 
+28,2. **Pregnancy**  
+29,1. Menopause-related osteoporosis at 85  , NDI
+29,2. Hypertension and diabetes at 80  
+29,3. Smoking at 70
+30,1. Carotid Stenosis - 85  , NDI
+30,2. Heart Failure or Heart Failure Syndrome - 70

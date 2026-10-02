@@ -1,0 +1,129 @@
+1,1. Secretions Area, NDI
+1,2. Cardiac Issues
+1,3. Obstruction
+1,4. Nothing Else
+2,Pneumonia 95, DI2  
+2,Chronic bronchitis 25  
+2,Acute bronchitis 20  
+2,Streptococcus pneumonia 30  
+2,Streptococcus multococcal pneumonia 25  
+2,Other respiratory infections 20
+3,1. Primary Lung Cancer - 90, DI3  
+3,2. Other Lung Masses or Other Lung Conditions - 70  
+3,3. Other Malignant Conditions - 40  
+3,4. Other Unconventional Findings - 10
+4,1. Cervical lymphadenopathy with node at 1.5 cm – 85, NDI
+4,2. Sinusitis complex – 75
+4,3. Sinusitis – 65
+4,4. Viral Encephalitis – 60
+4,5. Abscess – 55
+4,6. Sinusitis with possible complications – 50
+5,1. Left Upper Thoracic Obstruction (95)
+5,2. Left-Sided Pulmonary Embolism (50), DI1
+6,1. Phe Verticalis - 100
+6,2. Autoimmune Diseases - 60
+6,3. Another Glycolytic Disorder - 40
+6,4. Pheochromocytoma - 0
+7,1. Bipolar Disorder (60), NDI  
+7,2. Sleep Apnea (50)  
+7,3. Anorexia Nervosa (40)  
+7,4. Depression in a Phase (35)  
+7,5. Mental Health (25)
+8,1. Multiple sclerosis (MS), NDI  
+8,- Confidence Score: 85-90  
+9,Lesions from subcutaneous pigmented Lesions, NDI  
+9,Hyperpigmented Lesions  
+9,Lesions from other pigmented Areas  
+10,1. **Interventional Artifact** - 90-100, NDI  
+10,2. **Procedure-Related Injury** - 90-100  
+10,3. **Procedure-Related Bleeding** - 40-50
+11,1. Aortothorax Obstruction: 80, NDI  
+11,2. Aortic Stenosis: 70  
+11,3. Left-sided Heart Muscle Weakness: 60
+12,1. Posterior Growth Plate Mass, NDI  
+12,2. Posterior Growth Plate Mass (without underlying tumor)  
+12,3. Posterior Growth Plate Mass (with underlying tumor)  
+12,4. Other Pathophysiology (e.g., Sleep Apnea, Cyst)  
+13,1. **Left Bundle Branch Block (LBBB)** - 80, NDI
+13,2. **Left Ventricular Outflow Obstruction (LVOB)** - 60
+14,1. Trauma with Neurological Trauma, DI4
+14,2. Acute Inflammation
+14,3. Infections
+14,4. Genetic or Inherited Conditions
+15,1. Fibroid degeneration - 85, NDI  
+15,2. Vesicular mole - 70  
+15,3. No other diagnosis
+16,1. Sprains or Sprains/Tendinitis - 95 , NDI 
+16,2. Stroke - 5  
+16,3. Other Conditions - 3  
+17,1. Liver Cirrhosis (Organomegaly), NDI
+17,2. Non-Alcoholic fatty liver disease (NADLD)
+17,3. Cvid (Cancer of the Liver)
+17,4. Cause of Organomegaly
+18,1. **Macrocystic Anemia with Generalized Edema**, NDI  
+19,1. Primary Colon Cryptitis - 90, NDI  
+19,2. Inflammatory Bowel Disease (IBD) - 80  
+20,1. Medial limb fragment - 90, NDI
+20,2. Incisional or partial fracture - 80
+20,3. Trauma-related injury - 70
+20,4. Other unspecified injury - 60
+20,5. No further findings - 50
+21,1. Pseudogout - 80, NDI
+21,2. Hereditary hyperhidrosis - 60
+21,3. Hyperhidrosis with hereditary conditions - 40
+21,4. Prostate cancer - 30
+21,5. Arthralgias - 20
+21,6. Hyperhidrosis - 10
+21,7. Prostate cancer with arthralgias - 0
+21,8. Migraine - 0
+21,9. Pseudogout and arthralgias - 0
+21,10. Hyperhidrosis and arthralgias - 0
+22,1. **Edema in the appendix** - **85**, DI1
+22,2. **Gastrointestinal bleeding** - **25**
+22,3. **Heart failure** - **25**
+22,4. **Irregular menstrual period** - **25**
+23,1. Smoking (High confidence) - Strong evidence from smoking history., NDI
+23,2. Spinal Stenosis (Moderate confidence) - Consistent with smoking and symptoms.
+23,3. Diabetes (Moderate confidence) - Correlates with diabetes history.
+23,4. Mild Psoriasis (Moderate confidence) - Fits with psoriasis presentation.
+23,5. Hypothyroidism (Moderate confidence) - Aligns with hypothyroidism.
+23,6. Fever (Low confidence) - On the table, not strongly supported by symptoms.
+23,7. Family History of Early Onset Dementia (High confidence) - Strong indicator of possible cause.
+24,1. Aortopulmonary Shunt - 100 (Primary diagnosis due to bloodstains, CT scan, and patient's age and health status), NDI
+24,2. Pulmonary Embolism - 80 (Consistent with the bloodstains, CT scan, and patient's age and health status)
+24,3. Hemolysis - 20 (Possible with a shockwave or bleeding, but patient's history doesn't support it)
+25,1. Traumatic Brain Injury (TBI) with movement-paralysis (90), DI1
+25,2. Trauma Involving the Left Upper or Lower Extremities (TLUE) (80)
+25,3. Glasgow Coma Scale (GCS) (60) - GCS is less indicative of TBI due to the presence of vomiting.
+26,1. **Malaria Chemoprophylaxis** - This is the most likely diagnosis, given that the women have multiple vaccine certificates and Malaria Chemoprophylaxis is indicated. It is the first-line treatment for severe malaria symptoms., DI1
+26,2. **Nutritional Deficiencies or Drug Sensitivity Issues** - While possible, these could contribute to the symptoms without necessarily requiring chemoprophylaxis. Malaria is the primary concern.
+26,3. **Pregnancy and Health Indicators** - The women in pregnancy might affect health indicators, requiring additional management. However, the primary issue is likely the chemoprophylaxis.
+26,4. **Blood Test Uncertainty** - With some potentially pregnant, blood tests might not be fully completed, complicating management.
+26,5. **Other Malaria Causes** - While plausible, the high priority for chemoprophylaxis suggests it is the first step. Other causes might need evaluation.
+27,1. Polyps (65), NDI  
+27,2. Colorectal cancer (50)  
+27,3. Other conditions (10)
+28,1. **Maleochromatic Hyperprolactinemia (MHS)** - **95** , DI1 
+28,2. **Maleochromatic Hyperprolactinemia (MDS)** - **85**  
+28,3. **Labia Infection** - **75**  
+28,4. **Endometriosis/Etrogenia** - **65**  
+28,5. **Endometralgia** - **60**  
+29,1. Active Menopausal Women's Syndrome (65) - Strong support due to her menopause and high bone density.
+29,2. Postmenopausal Osteoporosis (58) - Strong support due to her menopause and high bone density., DI1
+29,3. Menopause (53) - Strong support due to her current age and the risk factors associated with menopause.
+29,4. Active Menopausal Women's Syndrome with Inflammation (48) - Supportable due to her high bone density and potential for inflammation.
+29,5. Menopausal Women's Syndrome (45) - Supportable due to her menopause and high bone density.
+29,6. Menopause (42) - Supportable due to her current age and the risk factors associated with menopause.
+29,7. Postmenopausal Osteoporosis with Other Pathologies (39) - Supportable due to her menopause and high bone density.
+29,8. Menopausal Women's Syndrome with Other Pathologies (38) - Supportable due to her menopause and potential for other conditions.
+29,9. Menopause and Osteoporosis (35) - Strong support due to her menopause and high bone density.
+29,10. Postmenopausal Women's Symptoms (34) - Supportable due to her menopause and potential for other conditions.
+29,11. Menopausal Women's Symptom and Osteoporosis (32) - Supportable due to her menopause and high bone density.
+29,12. PostmenopausalWomen'sSymptoms (30) - Supportable due to her menopause and potential for other conditions.
+29,13. Menopause (28) - Supportable due to her current age and the risk factors associated with menopause.
+29,14. PostmenopausalWomen'sSymptoms and Osteoporosis (27) - Supportable due to her menopause and high bone density.
+29,15. Menopause and Osteoporosis (26) - Strong support due to her menopause and high bone density.
+30,1. Primary Myocarpopercutaneous Infarction (MI) - 80 , NDI 
+30,2. Myocarpopercutaneous Infarction (MI) with a history of Myocarpopercutaneous Infarction (TIA) - 60  
+30,3. Other causes of increased calf pain - 0  
+30,4. No other specified causes - 0

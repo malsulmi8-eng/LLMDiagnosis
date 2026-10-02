@@ -1,0 +1,217 @@
+1,1. Acute coronary syndrome (ACS) - 80, DI3
+1,2. Pulmonary embolism (PE) - 60
+1,3. Gastroesophageal reflux disease (GERD) - 30, DI4
+1,4. Costochondritis - 20
+1,5. Musculoskeletal strain - 10
+2,1. Community Acquired Pneumonia (CAP) - 90, NDI
+2,2. Influenza - 80
+2,3. Respiratory Syncytial Virus (RSV) - 60
+2,4. Pneumocystis Jirovecii Pneumonia (PCP) - 40
+2,5. Tuberculosis (TB) - 30
+2,6. Viral Pharyngitis - 20
+2,7. Bronchiolitis - 15
+3,1. Pulmonary Cholangiocarcinoma (90)
+3,2. Left Lung Adenocarcinoma (85), DI1
+3,3. Neurofibromatosis Type 1 (70)
+3,4. Primary Central Nervous System Lymphoma (65)
+3,5. Bronchogenic Carcinoid Tumor (60)
+3,6. Pulmonary Metastasis from Other Primary Cancer (55), DI5
+3,7. Lymphangioleiomyomatosis (45)
+3,8. Lymphoma (40)
+4,1. Kawasaki Disease (90), DI1
+4,2. Toxic Shock Syndrome (60)
+4,3. Scarlet Fever (40)
+4,4. Staphylococcal Scalded Skin Syndrome (30)
+4,5. Inflammatory Bowel Disease (20)
+4,6. Viral Exanthem (15)
+4,7. Bacterial Infection (10)
+4,8. Allergic Reaction (5)
+5,1. Pulmonary Embolism (90), DI1
+5,2. Deep Vein Thrombosis (85), DI2
+5,3. Sepsis (75)
+5,4. Mastectomy-Related Morbidity (60)
+5,5. Pulmonary Infection (55)
+5,6. Atypical Pulmonary Nodules (45)
+5,7. Breast Cancer Metastasis (40)
+5,8. Respiratory Failure (35)
+5,9. Thrombophlebitis (30)
+6,1. Necrotizing fasciitis (95)
+6,2. Diabetic foot ulcers (85), DI1
+6,3. Cellulitis (75), DI2
+6,4. Impetigo (65)
+6,5. Keratoderma gelatinosum (55)
+6,6. Staphylococcal scalded skin syndrome (45)
+6,7. Pyoderma gangrenosum (35)
+7,1. Bipolar Disorder - 90, NDI
+7,2. Severe Depressive Disorder - 80
+7,3. Anxiety Disorder - 60
+7,4. Attention Deficit Hyperactivity Disorder (ADHD) - 50
+7,5. Binge Eating Disorder - 40
+7,6. Sleep Disorder (e.g. Insomnia) - 30
+7,7. Substance Use Disorder (e.g. stimulant abuse) - 20
+7,8. Psychotic Disorder (e.g. schizoaffective disorder) - 10
+8,1. Progressive Supranuclear Palsy (PSP) - 80
+8,2. Cortical Basal Degeneration (CBD) - 60
+8,3. Normal Pressure Hydrocephalus (NPH) - 40
+8,4. Alzheimer's Disease - 30, DI3
+8,5. Frontotemporal Dementia - 20
+8,6. Parkinson's Disease with Psychosis - 10
+9,1. Seborrheic keratoses (95)
+9,2. Actinic keratoses (80)
+9,3. Molluscum contagiosum (75)
+9,4. Skin tag (70), DI1
+9,5. Follicular keratosis (60)
+9,6. Acral keratosis (50)
+9,7. Melanocytic nevus (45)
+9,8. Sebaceous hyperplasia (40)
+10,1. Femoral Pseudoaneurysm (95), NDI
+10,2. Aortoiliac Artery Disease (70)
+10,3. Femoral Artery Dissection (60)
+10,4. Deep Vein Thrombosis (40)
+10,5. Superficial Phlebitis (20)
+11,1. Acute coronary syndrome (95)
+11,2. Pulmonary embolism (85)
+11,3. Acute myocardial infarction (80), DI2
+11,4. Tension pneumothorax (70)
+11,5. Pulmonary infarction (65)
+11,6. Aortic dissection (60)
+11,7. Hypertensive crisis (55)
+11,8. Anxiety disorder (45)
+12,1. Hypothyroidism (90), DI1
+12,2. Follicular thyroid carcinoma (80)
+12,3. Papillary thyroid carcinoma (75)
+12,4. Hashimoto thyroiditis (70)
+12,5. Pituitary adenoma (60)
+12,6. Adrenal insufficiency (50)
+12,7. Cushing's syndrome (45)
+12,8. Hypogonadism (40)
+13,1. Pulmonary embolism - 80, DI3
+13,2. Anxiety-related chest pain - 60
+13,3. Preeclampsia - 40
+13,4. Anxiety disorder - 30
+13,5. Postpartum anxiety - 20
+14,1. Delirium (90), DI5
+14,2. Normal Pressure Hydrocephalus (NPH) (80)
+14,3. Acute Stroke (70), DI4
+14,4. Infection (65)
+14,5. Vitamin B12 Deficiency (60)
+14,6. Thyroid Crisis (55)
+14,7. Liver Failure (50)
+14,8. Inflammatory Bowel Disease (50)
+14,9. Malignant Infiltrative Disease (45)
+15,1. Vesicular mole (90), NDI
+15,2. Fibroid degeneration (60)
+15,3. Ectopic pregnancy (40)
+15,4. Endometriosis (30)
+15,5. Ovarian torsion (20)
+15,6. Pelvic inflammatory disease (20)
+15,7. Isthmic tube rupture (10)
+15,8. Tubal ligation failure (10)
+16,1. Rabies (90), DI
+16,2. Post-exposure tetanus (80), DI7
+16,3. Hyperthyroidism (70)
+16,4. Multiple sclerosis relapse (60)
+16,5. Parkinson's disease (50)
+16,6. Psychogenic disorder (40)
+16,7. Peripheral neuropathy (30)
+16,8. Migraine with aura (20)
+17,1. Ruptured Liver Abscess (100), NDI
+17,2. Sepsis due to liver abscess (90)
+17,3. Primary Sclerosing Cholangitis (PSC) (80)
+17,4. Primary Spherocytosis (70)
+17,5. Alcoholic Liver Disease (60)
+17,6. Acute Pancreatitis (55)
+17,7. Gastrointestinal Parasite Infection (50)
+17,8. Autoimmune Hepatitis (45)
+17,9. Chronic Liver Disease (40)
+17,10. Viral Hepatitis (35)
+18,1. Acute Kidney Injury (AKI) - 80, DI1
+18,2. Dehydration - 60
+18,3. Prerenal AKI due to hypovolemia - 70
+18,4. Postrenal AKI due to urinary tract obstruction - 40
+18,5. Glomerulonephritis - 30
+18,6. Renal vein thrombosis - 10
+19,1. Esophageal Squamous Cell Carcinoma - 90, DI1
+19,2. Esophageal Adenocarcinoma - 85
+19,3. Achalasia - 60
+19,4. Scleroderma - 40
+19,5. Zenker's Diverticulum - 30
+19,6. Hypertrophic Pyloric Stenosis - 20
+19,7. Gastroesophageal Reflux Disease (GERD) - 15
+19,8. Esophageal Stricture - 10
+20,1. **Hepatic Hemorrhage (80)**, NDI 
+20,2. **Splenic Rupture (75)** 
+20,3. **Kidney Injury (60)** 
+20,4. **Splenic Aneurysm (40)** 
+20,5. **Liver Laceration (30)**
+21,1. Systemic Lupus Erythematosus (SLE) - 95, DI1
+21,2. Antiphospholipid Syndrome (APS) - 70
+21,3. Sjögren's Syndrome - 40
+21,4. Autoimmune Hemolytic Anemia (AIHA) - 30
+21,5. Mixed Connective Tissue Disease (MCTD) - 20
+21,6. Vasculitis (small vessel) - 15
+21,7. Rheumatoid Arthritis (RA) - 10
+22,1. Acute appendicitis (95), DI1
+22,2. Ectopic pregnancy (85)
+22,3. Pelvic inflammatory disease (80)
+22,4. Ovarian torsion (75)
+22,5. Appendiceal diverticulitis (70)
+22,6. Ectopic pregnancy with ovarian torsion (65)
+22,7. Ovarian cyst rupture (60)
+22,8. Uterine torsion (55)
+22,9. Adhesions (50)
+23,1. Pulmonary Embolism - 90
+23,2. Chronic Obstructive Pulmonary Disease (COPD) - 80, DI1
+23,3. Pulmonary Artery Hypertension - 70
+23,4. Idiopathic Pulmonary Fibrosis (IPF) - 60
+23,5. Small Cell Lung Cancer - 50
+23,6. Non-Small Cell Lung Cancer (NSCLC) - 50
+23,7. Cardiogenic Pulmonary Edema - 40
+24,1. Sepsis (80), NDI
+24,2. Traumatic mesenteric ischemia (70)
+24,3. Acute appendicitis (60)
+24,4. Peptic ulcer disease (50)
+24,5. Pancreatitis (40)
+24,6. Gastrointestinal bleeding (30)
+25,1. Traumatic Brain Injury (TBI) - 90, DI1
+25,2. Subdural Hematoma - 80
+25,3. Concussion - 60
+25,4. Skull Fracture - 50
+25,5. Spinal Cord Injury - 40
+25,6. Cervical Spine Injury - 30
+26,1. Malaria (80), DI1
+26,2. Zika virus infection (60)
+26,3. Yellow fever (50)
+26,4. Dengue fever (40)
+26,5. Pregnancy-related anemia (30)
+26,6. Pregnancy-related hypertension (20)
+26,7. Pregnancy-related preeclampsia (15)
+26,8. Urinary tract infection (10)
+26,9. Gastroenteritis (5)
+27,1. Familial Adenomatous Polyposis (FAP) - 100, DI1
+27,2. Lynch Syndrome - 70
+27,3. Peutz-Jeghers Syndrome - 40
+27,4. Juvenile Polyposis Syndrome - 30
+27,5. Colorectal Cancer - 10
+27,6. Inflammatory Bowel Disease (IBD) - 0
+28,1. Hyperprolactinemia (95), DI1
+28,2. Pregnancy (5)
+28,3. Lactational amenorrhea (10)
+28,4. Galactorrhea due to pituitary adenoma (5)
+28,5. Thyroid disorders (0)
+28,6. Polycystic ovary syndrome (PCOS) (0)
+28,7. Anovulatory cycles (0)
+28,8. Stress-related amenorrhea (0)
+28,9. Adrenal insufficiency (0)
+28,10. Eating disorders (0)
+29,1. Postmenopausal Osteoporosis - 90, DI1
+29,2. Hypertension-related osteoporosis - 60
+29,3. Diabetes-related osteoporosis - 40
+29,4. Cigarette-related osteoporosis - 30
+29,5. Vitamin D deficiency osteoporosis - 20
+29,6. Osteopenia - 10
+30,1. Peripheral Arterial Disease (80), DI1 
+30,2. Atherosclerotic Peripheral Artery Disease (75) 
+30,3. Raynaud's Disease (20) 
+30,4. Vasculitis (10) 
+30,5. Endocarditis (5)

@@ -1,0 +1,144 @@
+1,1. Acute Pulmonary Embolism (PE) – Confidence: 95, NDI
+1,2. Aortic Dissection – Confidence: 70
+1,3. Severe Hypovolemia (Shock) – Confidence: 60
+1,4. Cardiac Tamponade – Confidence: 40
+1,5. Severe Asthma/COPD Exacerbation – Confidence: 30
+1,6. Pancreatitis – Confidence: 20
+1,7. Pulmonary Hemorrhage – Confidence: 10
+2,1. Cytomegalovirus (CMV) pneumonia (confidence 85), DI1
+2,2. Mycobacterium tuberculosis infection (confidence 30)
+2,3. Pneumocystis jirovecii pneumonia (PJP) (confidence 25)
+2,4. Pulmonary tuberculosis (confidence 20)
+2,5. Atypical pneumonia (confidence 10)
+3,1. Dercum's Disease (Ole factorum) – Confidence: 30
+3,2. Inferior Galactose Syndrome (Inflammatory bowel disease) – Confidence: 15
+3,3. Lymphedema – Confidence: 25
+3,4. Deep Vein Thrombosis (DVT) – Confidence: 40
+3,5. Pulmonary Embolism (PE) – Confidence: 35, DI1
+4,1. Acute Myocardial Infarction (MI) – Confidence: 95, DI1
+4,2. Unstable Angina – Confidence: 70
+4,3. Aortic Dissection – Confidence: 10
+4,4. Pulmonary Embolism – Confidence: 5
+4,5. Pericarditis – Confidence: 2
+5,1. Rheumatoid Arthritis (Score: 70)  , NDI
+5,2. Reactive Arthritis (Score: 60)  
+5,3. Juvenile Idiopathic Arthritis (Score: 40)  
+5,4. Gout (Score: 30)  
+5,5. Ankylosing Spondylitis (Score: 20)  
+5,6. Sarcoidosis (Score: 10)
+6,1. Hyperthyroidism (Confidence: 85)
+6,2. Graves' disease (Confidence: 70), DI1
+6,3. Anorexia nervosa (Confidence: 60)
+6,4. Medication-induced hyperthyroidism (Confidence: 20)
+6,5. Thyroiditis (Confidence: 5)
+7,1. Major Depressive Disorder (Confidence: 95), DI1
+7,2. Bipolar Disorder, Depressive Episode (Confidence: 60)
+7,3. Generalized Anxiety Disorder (Confidence: 30)
+7,4. Substance-induced Mood Disorder (Confidence: 15)
+8,1. Obstructive Sleep Apnea (OSA) – Confidence: 85, DI1
+8,2. Attention Deficit Hyperactivity Disorder (ADHD) – Confidence: 70
+8,3. Pediatric Enlarged Prostate (Benign Prostatic Hyperplasia) – Confidence: 15
+8,4. Narcolepsy – Confidence: 5
+8,5. Gastroesophageal Reflux Disease (GERD) – Confidence: 3
+9,1. Toxocariasis (Confidence: 70), NDI
+9,2. Pork tapeworm infection (Confidence: 65)
+9,3. Eosinophilic gastroenteritis (Confidence: 50)
+9,4. Henoch-Schönlein purpura (Confidence: 40)
+9,5. Kawasaki disease (Confidence: 30)
+10,1. Ectopic pregnancy (85)
+10,2. Pelvic inflammatory disease (PID) (70)
+10,3. Endometriosis (60), DI1
+10,4. Fibroids (45)
+10,5. Adenomyosis (30)
+10,6. Uterine sarcoma (5)
+11,1. Amyotrophic Lateral Sclerosis (ALS) - Confidence: 70, NDI
+11,2. Multiple System Atrophy (MSA) - Confidence: 25
+11,3. Progressive Bulbous Gangliosclerosis (PBG) - Confidence: 5
+12,1. Meningitis (85), DI1
+12,2. Subarachnoinhomogenous (subarachnoid) hemorrhage (15)
+13,1. Laryngotracheobronchitis (Croup) – 95
+13,2. Epiglottitis – 70, DI1
+13,3. Tonsillitis with peritonsillar abscess – 40
+13,4. Cystic fibrosis exacerbation – 20
+13,5. Foreign body aspiration – 5
+14,1. Sickle cell disease (confidence: 85), NDI
+14,2. Thalassemia (confidence: 70)
+14,3. Iron deficiency anemia with hemolysis (confidence: 60)
+14,4. Beta-thalassemia intermedia (confidence: 55)
+14,5. Microangiopathic hemolytic anemia (confidence: 40)
+15,1. Atrial Fibrillation (Confidence: 85), DI1
+15,2. Coronary Artery Disease with Stable Angina (Confidence: 70)
+15,3. Pericarditis (Confidence: 15)
+15,4. Pneumothorax (Confidence: 5)
+15,5. Pulmonary Embolism (Confidence: 5)
+16,1. Bronchiolitis (confidence 85), NDI
+16,2. Asthma exacerbation (confidence 70)
+16,3. Gastroesophageal reflux disease (GERD) with wheezing (confidence 15)
+16,4. Laryngotracheobronchitis (commonly known as croup) (confidence 5)
+17,1. Low-grade Squamous Intraepithelial Lesion (LSIL) - Confidence: 60
+17,2. High-grade Squamous Intraepithelial Lesion (HSIL) - Confidence: 30
+17,3. Cervical Intraepithelial Neoplasia (CIN) 2 - Confidence: 20, DI1
+18,1. Heart Failure (Confidence: 85), DI1
+18,2. Chronic Kidney Disease with Volume Overload (Confidence: 70)
+18,3. Congestive Heart Failure due to Hypertensive Heart Disease (Confidence: 60)
+18,4. Lymphedema (Confidence: 20)
+18,5. Pulmonary Edema (Confidence: 5)
+19,1. Lung Cancer (85)
+19,2. Chronic Obstructive Pulmonary Disease (COPD) - Emphysema/Cystic Fibrosis (70), DI1
+19,3. Interstitial Pneumonitis (e.g., Sarcoidosis, IPF) (60)
+19,4. Pneumonia (50)
+19,5. Heart Failure (40)
+19,6. Pleural Disease (e.g., Pleural Effusion, Mesothelioma) (30)
+19,7. Bronchiectasis (25)
+19,8. Pulmonary Embolism (15)
+20,1. Alzheimer's Disease – 95
+20,2. Dementia with Lewy bodies – 70
+20,3. Vascular dementia – 50
+20,4. Creutzfeldt-Jakob disease – 20, DI1
+20,5. Pick disease – 5
+21,1. Giardiasis (Confidence: 80), DI1
+21,2. Entamoeba histolytica infection (Confidence: 60)
+21,3. Cryptosporidiosis (Confidence: 30)
+21,4. Cyclospora cayetanensis infection (Confidence: 10)
+22,1. Pulmonary Aspergillosis (confidence: 85), DI1
+22,2. Chronic Pulmonary Mycosis (confidence: 70)
+22,3. Nocardia pneumonia (confidence: 15)
+22,4. Tuberculosis with cavitary lesion (confidence: 5)
+23,1. Malaria (confidence 85)
+23,2. Dengue fever (confidence 70), DI1
+23,3. Typhoid fever (confidence 20)
+23,4. Relapsing fever (confidence 5)
+24,1. Pneumonia (85), DI
+24,2. Bronchitis (30)
+24,3. Tuberculosis (15)
+24,4. Pulmonary embolism (5)
+24,5. Pulmonary edema (3)
+25,1. Osteomyelitis (Confidence: 85), DI1
+25,2. Enchondroma (Confidence: 70)
+25,3. Osteonecrosis (Confidence: 60)
+25,4. Inflammatory arthritis (Confidence: 40)
+25,5. Metastatic bone disease (Confidence: 20)
+26,1. Ectopic pregnancy (90), DI1
+26,2. Ovarian torsion (15)
+26,3. Ovarian cyst rupture (5)
+26,4. Appendicitis (5)
+27,1. Iron Deficiency Anemia (Confidence: 95), DI1
+27,2. Menstrual Blood Loss (Confidence: 70)
+27,3. Intrauterine Device (IUD) Use (Confidence: 60)
+27,4. Internal Bleeding (Confidence: 40)
+27,5. Celiac Disease (Confidence: 30)
+27,6. Malabsorption Syndrome (Confidence: 20)
+27,7. Gastrointestinal Blood Loss (Confidence: 10)
+28,1. Lyme disease (85), DI1
+28,2. Osteomyelitis (60)
+28,3. Septic arthritis (55)
+28,4. Gout (20)
+28,5. Juvenile idiopathic arthritis (15)
+29,1. Kawasaki Disease (Confidence: 85), DI1
+29,2. Scarlet Fever (Confidence: 70)
+29,3. Fifth Disease (Confidence: 15)
+30,1. Posterior elbow dislocation (90), DI1
+30,2. Elbow fracture (70)
+30,3. Ulnar nerve injury (60)
+30,4. Radial nerve injury (50)
+30,5. Brachial plexus injury (40)

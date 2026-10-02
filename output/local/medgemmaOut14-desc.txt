@@ -1,0 +1,240 @@
+1,1.  Stable Angina (Confidence: 70), DI1
+1,2.  Atypical Angina (Confidence: 60)
+1,3.  Musculoskeletal Chest Pain (Confidence: 40)
+1,4.  Gastroesophageal Reflux Disease (GERD) (Confidence: 30), DI4
+1,5.  Panic Disorder/Anxiety Attack (Confidence: 20)
+1,6.  Pericarditis (Confidence: 10)
+1,7.  Aortic Dissection (Confidence: 5)
+1,8.  Pulmonary Embolism (Confidence: 5)
+1,9.  Myocardial Infarction (Confidence: 5), DI2
+1,10. Esophageal Spasm (Confidence: 5)
+2,1.  Pneumonia (Confidence: 90), DI2
+2,2.  Bronchiolitis (Confidence: 80)
+2,3.  Viral Respiratory Infection (Confidence: 70)
+2,4.  Aspiration Pneumonia (Confidence: 60)
+2,5.  Tuberculosis (Confidence: 20)
+2,6.  Fungal Infection (Confidence: 10)
+2,7.  Acute Respiratory Distress Syndrome (ARDS) (Confidence: 10)
+3,1.  Lung Cancer (85), DI4
+3,2.  Brain Tumor (80)
+3,3.  Benign Lung Tumor (60)
+3,4.  Other Lung Pathology (40)
+3,5.  Metastasis (30), DI5
+3,6.  Neurogenic Tumor (20)
+3,7.  Infectious Lung Disease (10)
+3,8.  Other Brain Pathology (5)
+3,9.  Pulmonary Embolism (5)
+3,10. Cardiac Etiology (5)
+4,1.  Kawasaki disease (Confidence: 95), DI1
+4,2.  Viral infection (Confidence: 70)
+4,3.  Toxic shock syndrome (Confidence: 40)
+4,4.  Acute rheumatic fever (Confidence: 30)
+4,5.  Other systemic inflammatory condition (Confidence: 20)
+5,1.  Pulmonary Embolism (PE) - 90, DI1
+5,2.  Pneumonia - 70
+5,3.  Pleural Effusion - 60
+5,4.  Musculoskeletal Pain - 40
+5,5.  Deep Vein Thrombosis (DVT) - 75, DI2
+6,1.  **Cellulitis (Confidence: 90)**, DI2
+6,2.  **Diabetic Dermopathy (Confidence: 80)**
+6,3.  **Necrobiosis Lipoidica Diabeticorum (Confidence: 60)**
+6,4.  **Venous Stasis Dermatitis (Confidence: 50)**
+6,5.  **Pressure Ulcer (Confidence: 40)**
+6,6.  **Drug Eruption (Confidence: 30)**
+6,7.  **Infection (Confidence: 20)**
+6,8.  **Other Skin Conditions (Confidence: 10)**
+7,1.  Major Depressive Disorder with Anxious Distress (90), NDI
+7,2.  Bipolar Disorder (70)
+7,3.  Anxiety Disorder (60)
+7,4.  Insomnia (50)
+7,5.  Suicidal Ideation (95)
+7,6.  Restless Legs Syndrome (40)
+7,7.  Substance-Induced Mood Disorder (30)
+7,8.  Medication-Induced Mood Disorder (30)
+7,9.  Anorexia Nervosa (10)
+7,10. Bulimia Nervosa (10)
+8,1.  Creutzfeldt-Jakob Disease (CJD) - 95, DI1
+8,2.  Alzheimer's Disease - 75, DI3
+8,3.  Vascular Dementia - 60
+8,4.  Normal Pressure Hydrocephalus - 40
+8,5.  Frontotemporal Dementia - 30
+8,6.  Posterior Cortical Atrophy - 25
+8,7.  Tuberous Sclerosis - 10
+8,8.  Huntington's Disease - 10, DI4
+9,1.  Skin tag (95), DI1
+9,2.  Seborrheic keratosis (85), DI3
+9,3.  Nevus (60)
+9,4.  Folliculoma (50)
+9,5.  Cherry angioma (40)
+9,6.  Skin cancer (30)
+10,1.  **Acute Arterial Occlusion (Right Femoral Artery):** 95
+10,2.  **Peripheral Artery Disease (PAD) with Acute Thrombosis:** 85, DI5
+10,3.  **Pseudoaneurysm of the Right Femoral Artery:** 75, DI2
+10,4.  **Deep Vein Thrombosis (DVT) of the Right Lower Extremity:** 50
+10,5.  **Compartment Syndrome of the Right Lower Extremity:** 30
+10,6.  **Arterial Dissection:** 20, DI4
+10,7.  **Chronic Limb Ischemia:** 10, DI1
+11,1.  Acute Myocardial Infarction (AMI) - 80, DI2
+11,2.  Pulmonary Embolism (PE) - 70
+11,3.  Esophageal Spasm - 20
+11,4.  Musculoskeletal Pain - 10
+11,5.  Panic Attack - 10
+11,6.  Pericarditis - 10
+11,7.  Aortic Dissection - 5
+11,8.  Cervical Dystonia - 5
+11,9.  Esophageal Rupture - 5
+11,10. Carotid Artery Dissection - 5
+12,1.  Hypothyroidism (Confidence: 95), DI1
+12,2.  Thyroid Nodules (Confidence: 80)
+12,3.  Hashimoto's Thyroiditis (Confidence: 85)
+12,4.  Depression (Confidence: 60), DI3
+12,5.  Weight Gain (Confidence: 50)
+12,6.  Anxiety (Confidence: 40)
+12,7.  Iron Deficiency Anemia (Confidence: 30), DI4
+12,8.  Cushing's Syndrome (Confidence: 20)
+12,9.  Hyperthyroidism (Confidence: 10)
+12,10. Pregnancy (Confidence: 10)
+13,1.  Postpartum Hemorrhage (Confidence: 80)
+13,2.  Pulmonary Embolism (Confidence: 60), DI3
+13,3.  Pneumonia (Confidence: 40)
+13,4.  Anxiety (Confidence: 20)
+13,5.  Asthma Exacerbation (Confidence: 10)
+13,6.  Cardiac Arrhythmia (Confidence: 10)
+14,1.  Post-traumatic encephalopathy: 90, DI2
+14,2.  Dehydration: 80
+14,3.  Hypoxia: 70
+14,4.  Medication side effect: 60
+14,5.  Infection: 50
+14,6.  Stroke: 40, DI4
+14,7.  Seizure: 30
+14,8.  Brain tumor: 20
+14,9.  Alcohol withdrawal: 10
+14,10. Drug overdose: 10
+15,1.  Ectopic pregnancy (95)
+15,2.  Molar pregnancy (85), DI1
+15,3.  Fibroid degeneration (70)
+15,4.  Normal pregnancy (5)
+15,5.  Miscarriage (25)
+15,6.  Other (1)
+16,1.  Rabies (Confidence: 95), DI1
+16,2.  Anxiety Disorder (Confidence: 5)
+16,3.  Spastic Paraparesis (Confidence: 2)
+16,4.  Muscular Dystrophy (Confidence: 1)
+16,5.  Stroke (Confidence: 1)
+16,6.  Neurodegenerative Disease (Confidence: 1)
+16,7.  Tetanus (Confidence: 1), DI7
+16,8.  Bell's Palsy (Confidence: 1)
+16,9.  Drug Reaction (Confidence: 1)
+16,10. Guillain-Barré Syndrome (Confidence: 1)
+17,1.  Ruptured Liver Abscess (100)
+17,2.  Sepsis (95)
+17,3.  Peritonitis (90), DI1
+17,4.  Acute Liver Failure (85)
+17,5.  Cholecystitis (75)
+17,6.  Pancreatitis (60)
+17,7.  Ascites (50), DI4
+17,8.  Liver Cancer (40)
+17,9.  Cirrhosis (30)
+17,10. Drug-induced Liver Injury (20)
+18,1.  Pre-renal acute kidney injury (AKI) - 90, DI1
+18,2.  Acute tubular necrosis (ATN) - 70
+18,3.  Post-renal AKI - 20
+18,4.  Renal vein thrombosis (RVT) - 10
+18,5.  Other - 0
+19,1.  Esophageal cancer (85), DI1
+19,2.  Achalasia (60)
+19,3.  Globus sensation (10)
+19,4.  Esophageal stricture (70)
+19,5.  Eosinophilic esophagitis (65)
+19,6.  Achalasia (60)
+19,7.  Benign stricture (50)
+19,8.  Zenker's diverticulum (40)
+19,9.  Food impaction (20)
+19,10. Plummer-Vinson syndrome (10)
+20,1.  Abdominal Contusion (Confidence: 90), NDI
+20,2.  Abdominal Aortic Aneurysm (Confidence: 60)
+20,3.  Splenic Injury (Confidence: 70)
+20,4.  Liver Injury (Confidence: 60)
+20,5.  Internal Bleeding (Confidence: 80)
+20,6.  Pelvic Fracture (Confidence: 60)
+20,7.  Diaphragmatic Injury (Confidence: 30)
+20,8.  Perforated Viscus (Confidence: 40)
+20,9.  Mesenteric Injury (Confidence: 30)
+20,10. Free Fluid in Abdomen (Confidence: 95)
+21,1.  Systemic Lupus Erythematosus (SLE) - 95, DI1
+21,2.  Henoch-Schönlein Purpura (HSP) - 85
+21,3.  Vasculitis - 75
+21,4.  Drug-induced Lupus - 60
+21,5.  Mixed Connective Tissue Disease (MCTD) - 50
+21,6.  Other Autoimmune Diseases - 40
+22,1.  Acute appendicitis (Confidence: 95), DI1
+22,2.  Right lower quadrant (RLQ) pain (Confidence: 90)
+22,3.  Abdominal pain (Confidence: 85)
+22,4.  Edematous appendix (Confidence: 90)
+22,5.  Periumbilical pain (Confidence: 75)
+23,1.  COPD Exacerbation (Confidence: 95), DI1
+23,2.  Pneumonia (Confidence: 60)
+23,3.  Heart Failure (Confidence: 40)
+23,4.  Spinal Stenosis (Confidence: 10)
+23,5.  Early Onset Dementia (Confidence: 5)
+24,1.  Splenic Rupture (Confidence: 100), DI1
+24,2.  Hypovolemic Shock (Confidence: 100)
+24,3.  Trauma (Confidence: 100)
+24,4.  Abdominal Pain (Confidence: 100)
+24,5.  Hemoperitoneum (Confidence: 100)
+25,1.  Subdural Hematoma: 95, NDI
+25,2.  Intracerebral Hemorrhage: 85
+25,3.  Skull Fracture: 70
+25,4.  Concussion: 60
+25,5.  Cerebral Edema: 50
+25,6.  Epidural Hematoma: 40
+25,7.  Brain Herniation: 30
+25,8.  Diffuse Axonal Injury: 25
+25,9.  Spinal Cord Injury: 10
+25,10. Meningitis: 5
+26,1.  Malaria (95), DI1
+26,2.  Dengue Fever (75)
+26,3.  Zika Virus Infection (70)
+26,4.  Yellow Fever (65)
+26,5.  Chikungunya (60)
+26,6.  Leptospirosis (40)
+26,7.  Typhoid Fever (30)
+26,8.  Hepatitis A (25)
+26,9.  Influenza (20)
+26,10. COVID-19 (15)
+26,11. Rabies (5)
+26,12. Brucellosis (5)
+26,13. Filariasis (5)
+26,14. Elephantiasis (5)
+27,1.  Familial Adenomatous Polyposis (FAP) - 95, DI1
+27,2.  Adenomatous Polyposis (APC) - 85
+27,3.  Inflammatory Bowel Disease (IBD) - 60
+27,4.  Colonic Cancer - 40
+28,1.  **Prolactinoma (Pituitary Adenoma):** 95
+28,2.  **Stress-Induced Hyperprolactinemia:** 85, DI1
+28,3.  **Hypothyroidism:** 70
+28,4.  **Medication-Induced Hyperprolactinemia:** 60
+28,5.  **Functional Hyperprolactinemia:** 50
+28,6.  **Idiopathic Hyperprolactinemia:** 40
+28,7.  **Pregnancy:** 30
+28,8.  **Other Etiologies (e.g., CNS disease, other pituitary tumors):** 20
+29,1.  Osteoporosis (Confidence: 95), DI1
+29,2.  Osteopenia (Confidence: 85)
+29,3.  Osteoarthritis (Confidence: 70)
+29,4.  Hypogonadism (Confidence: 60)
+29,5.  Hypertension (Confidence: 50)
+29,6.  Diabetes Mellitus (Confidence: 50)
+29,7.  Cigarette Smoking (Confidence: 40)
+29,8.  Menopause (Confidence: 30)
+29,9.  Fracture Risk Assessment (Confidence: 20)
+29,10. Hyperparathyroidism (Confidence: 10)
+30,1.  Peripheral artery disease (PAD) - 95, DI1
+30,2.  Hypertension - 90
+30,3.  Ischemic heart disease - 85
+30,4.  Carotid artery stenosis - 75
+30,5.  Aortic stenosis - 50
+30,6.  Raynaud's phenomenon - 20
+30,7.  Vasculitis - 10
+30,8.  Hypertrophic cardiomyopathy - 5
+30,9.  Atherosclerosis - 90
+30,10. Chronic kidney disease - 10

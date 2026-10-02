@@ -1,0 +1,105 @@
+1,1. GERD , DI4 
+1,2. Esophageal reflux  
+1,3. Musculoskeletal issue (e.g., muscle strain or injury)
+2,1. **Bacterial pneumonia**, NDI  
+2,2. **Viral pneumonia**  
+2,3. **Gastroenteritis** (due to loose stools)  
+2,4. **Bronchitis** (with respiratory distress)  
+3,1. Left lung mass, DI2  
+3,2. Right frontal lobe mass
+4,1. Viral meningitis or encephalitis, NDI  
+4,2. Viral gastroenteritis  
+4,3. Viral encephalopathy  
+4,4. Viral infection in hands and feet  
+4,5. Congenital heart disease
+5,1. Pulmonary embolism  , DI1
+5,2. DVT (due to leg pain and elevated D-dimer)
+6,1. Eczema  , NDI
+6,2. Pressure ulcer  
+6,3. Fungal infection
+7,1. Bipolar disorder , NDI 
+7,2. Depression  
+7,3. Anxiety  
+7,4. Suicide ideation
+8,1. Alzheimer's disease , DI3 
+8,2. Multiple sclerosis  
+8,3. Stroke
+9,1. Basal cell carcinoma  
+9,2. Seborrheic keratosis  , DI3
+9,3. Melanoma (4 mm)
+10,1. Femoral artery thrombosis, DI5  
+10,2. Internal bleeding  
+10,3. Hematoma
+11,1. Sciatica  , NDI
+11,2. Fracture in the right arm  
+11,3. Hematoma in the right arm
+12,1. Cervical cancer, NDI  
+12,2. Schwannoma  
+12,3. Meningioma  
+12,4. Alopecia areata  
+12,5. Thyroid issues
+13,Heart failure, pulmonary embolism, respiratory distress., NDI
+14,1. Delirium, DI5  
+14,2. Stroke , DI4 
+14,3. Delirium encephalopathy, DI2  
+14,4. Traumatic brain injury
+15,1. **Vesicular mole vs fibroid degeneration** , NDI 
+15,2. **Vesicular mole vs fibroid degeneration**  
+15,3. **Vesicular mole vs fibroid degeneration**  
+15,4. **Vesicular mole vs fibroid degeneration**
+16,1. MS , NDI 
+16,2. Stroke  
+16,3. Hydrophobia  
+16,4. MS
+17,1. Ruptured liver abscess , NDI 
+17,2. Acute abdomen with CVID symptoms  
+17,3. Acute cholecystitis  
+17,4. Acute appendicitis  
+17,5. Acute pancreatitis
+18,1. Acute kidney injury , DI1 
+18,2. Sodium retention  
+18,3. Heart failure  
+18,4. Chronic kidney disease
+19,1. GERD  
+19,2. Hiatal hernia  
+19,3. Gastritis  
+19,4. Esophageal atresia, DI1
+20,1. Acute abdomen with obstruction , DI1 
+20,2. Pelvic fracture  
+20,3. Pelvic organ injury  
+20,4. Spinal cord injury
+21,1. ANA/anti-dsDNA , NDI 
+21,2. Anemia and thrombocytopenia  
+21,3. Purpura and skin lesions  
+21,4. Nephrotic syndrome
+22,1. Appendicitis  , DI1
+22,2. Gastroenteritis  
+22,3. Acute appendicitis  
+22,4. Intussusception  
+22,5. Acute abdomen with appendicitis
+23,1. COPD  , DI1
+23,2. Pulmonary embolism  
+23,3. Pneumonia
+24,1. Splenic rupture, DI1  
+24,2. Acute abdomen  
+24,3. Other abdominal condition
+25,1. **Concussion**  
+25,2. **Traumatic Brain Injury**, DI1  
+25,3. **Meningitis**  
+25,4. **Seizure Disorder**  
+25,5. **Stroke**  
+26,Pregnancy, [Pregnancy], with strength., NDI
+27,1. Familial polyps  , DI1
+27,2. Colon cancer  
+27,3. Inflammatory bowel disease  
+27,4. Chronic proctitis
+28,1. Pregnancy  , NDI
+28,2. Breast issues  
+28,3. Menopause
+29,1. Menopause  
+29,2. Smoking  
+29,3. Hypertension  
+29,4. Osteoporosis, DI1
+30,1. Peripheral artery disease (PAD)  , DI1
+30,2. Stroke  
+30,3. Transient ischemic attack (TIA)

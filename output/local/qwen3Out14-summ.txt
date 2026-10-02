@@ -1,0 +1,111 @@
+1,1. Angina, DI1  
+1,2. Pulmonary embolism  
+1,3. GERD, DI4  
+1,4. Aortic dissection  
+2,1. Viral gastroenteritis, NDI  
+2,2. Bacterial gastroenteritis  
+2,3. Bronchiolitis  
+2,4. Pneumonia  
+2,5. Other causes (e.g., aspiration)
+3,1. Solid-organ mass (left lung), DI2  
+3,2. Brain tumor (right frontal lobe mass)
+4,1. Vitamin B12 deficiency (strawberry tongue), NDI  
+4,2. Infection (WBC, C-reactive protein)  
+4,3. Malnutrition (albumin)  
+4,4. Eczematous or fungal skin condition (desquamation)  
+4,5. Heart issue (coronary artery dilation)
+5,1. Pulmonary embolism (PE)  , DI1
+5,2. Right lower extremity infection (RLE)  
+5,3. Congestive heart failure (CHF)  
+5,4. Thoracic aortic dissection (TAD)  
+5,5. Pulmonary hypertension (PH)
+6,1. Fungal infection  
+6,2. Diabetic foot infection, DI1  
+6,3. Abscess, DI3 
+6,4. Eczema with oozing blisters
+7,1. Sleep disturbances  
+7,2. Lithium-induced sleepiness, DI2  
+7,3. Bipolar disorder
+8,1. Alzheimer's disease,DI3  
+8,2. Parkinson's disease  
+8,3. Multiple sclerosis (MS)
+9,1. Sebaceous cyst , NDI 
+9,2. Lipoma  
+9,3. Skin tumor
+10,1. Thrombosis of the right femoral artery  , DI5
+10,2. Peripheral artery disease (PAD) in the right leg  
+10,3. Left femoral artery occlusion or disease  
+11,1. Hypertension , NDI 
+11,2. Embolism  
+11,3. Arterial disease  
+11,4. Cardiac issue
+12,1. Hypothyroidism , DI1 
+12,2. Anorexia  
+12,3. Alopecia areata
+13,1. Pneumonia  
+13,2. Pulmonary embolism  , DI3
+13,3. Acute respiratory distress syndrome (ARDS)  
+13,4. Heart failure
+14,1. **Traumatic Brain Injury (TBI)**  
+14,2. **Stroke**  , DI4
+14,3. **Post-Traumatic Stress Disorder (PTSD)**  
+14,4. **Infection**  
+14,5. **Delirium or Neurological Disorder** , DI5 
+15,1. Vesicular mole, NDI  
+15,2. Fibroid degeneration  
+15,3. Vesicular mole  
+15,4. Fibroid degeneration
+16,1. MS  ,NDI
+16,2. Stroke  
+16,3. Peripheral neuropathy
+17,1. Ruptured liver abscess, NDI  
+17,2. Acute abdomen with infection  
+17,3. Acute cholecystitis  
+17,4. Acute biliary syndrome  
+17,5. Acute cholangitis
+18,1. Nephrotic syndrome 
+18,2. Acute kidney injury , DI1
+19,1. GERD  
+19,2. Esophagitis  
+19,3. Esophageal Cancer , DI1
+19,4. Gastritis  
+20,1. Abdominal injury (internal), DI1  
+20,2. Car accident with multiple extremity fractures  
+20,3. Ruptured spleen or liver (internal)
+21,1. Systemic Lupus Eritavirosis, DI1  
+21,2. Scleroderma  
+21,3. Renal Disease (Proteinuria and RBC casts)
+22,1. Appendicitis, DI1  
+22,2. Acute appendicitis  
+22,3. Infection in the appendix  
+23,1. COPD, DI1  
+23,2. Pulmonary edema  
+23,3. Pulmonary infection
+24,1. Ruptured spleen , DI1 
+24,2. Ruptured spleen with intraperitoneal hemorrhage  
+24,3. Ruptured liver  
+24,4. Ruptured spleen from a hematoma  
+24,5. Ruptured spleen from a blunt injury
+25,1. Traumatic brain injury (TBI)  , DI1
+25,2. Hypoglycemia  
+25,3. Hypovolemic shock  
+25,4. Hypothermia
+26,1. Malaria  , DI1
+26,2. Pregnancy-related infection  
+26,3. Other tropical disease (e.g., Dengue)  
+26,4. Other pregnancy complication (e.g., preeclampsia)  
+26,5. Traveler's disease (e.g., traveler's diarrhea)
+27,1. Colon polyps  
+27,2. Familial adenomatous colitis , DI1 
+27,3. Colon cancer  
+27,4. Familial adenomatism (a term often used for familial adenomatous colitis)  
+28,1. Breast cysts , NDI 
+28,2. Breast tumors  
+28,3. Prolactin-related issues  
+28,4. Hormonal imbalances
+29,1. Osteoporosis in women due to menopause  , DI1
+29,2. Calcium deficiency or vitamin D deficiency  
+29,3. Osteoporosis in other bone parts
+30,1. Aortic valve insufficiency (carotid bruit)  
+30,2. Peripheral artery disease (dorsalis pedis pulses)  , DI1
+30,3. Acute compartment syndrome (calf pain)

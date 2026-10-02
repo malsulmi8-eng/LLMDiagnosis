@@ -1,0 +1,233 @@
+1,1. Hemorrhagic shock (95), NDI
+1,2. Upper gastrointestinal bleeding (85)
+1,3. Infection/ sepsis (75)
+1,4. Vasovagal syncope (40)
+1,5. Pernicious anemia (30)
+2,1. Pneumocystis jirovecii pneumonia (PJP) - 80
+2,2. Histoplasmosis - 60
+2,3. Cytomegalovirus (CMV) pneumonia - 50, DI1
+2,4. Aspergillosis - 30
+2,5. Varicella-zoster virus (VZV) pneumonia - 20
+2,6. Mycoplasma pneumoniae - 10
+3,1. Pulmonary Embolism (95), DI1
+3,2. Acute Respiratory Distress Syndrome (85)
+3,3. Pneumonia (75)
+3,4. Atelectasis (65)
+3,5. Pancreatitis (45)
+3,6. Pneumothorax (35)
+3,7. Pulmonary Edema (30)
+3,8. Myocardial Infarction (20)
+3,9. Acute Chest Syndrome (15)
+3,10. Costochondritis (5)
+4,1. Acute Coronary Syndrome (ACS) - 0%
+4,2. Ventricular Tachycardia - 0%
+4,3. Hypertrophic Cardiomyopathy (HCM) - 10%
+4,4. Cardiac Tamponade - 0%
+4,5. Pulmonary Embolism (PE) - 0%
+4,6. Myocardial Infarction (MI) - 20%, DI1
+4,7. Acute Aortic Dissection - 0%
+4,8. Dilated Cardiomyopathy (DCM) - 30%
+4,9. Hypertensive Heart Disease - 40%
+4,10. Cardiomyopathy (unspecified) - 50%
+4,11. Pericarditis - 0%
+4,12. Left Ventricular Aneurysm - 10%
+4,13. Restrictive Cardiomyopathy - 0%
+4,14. Sudden Cardiac Death (SCD) - 10%
+5,1. Rheumatoid Arthritis (RA) - 80, NDI
+5,2. Juvenile Idiopathic Arthritis (JIA) - 20
+5,3. Seronegative Spondyloarthropathies (e.g. Ankylosing Spondylitis) - 15
+5,4. Lupus - 10
+5,5. Lyme Disease - 10
+5,6. Osteomyelitis - 5
+5,7. Tendinitis - 5
+5,8. Reactive Arthritis - 5
+6,1. Hyperthyroidism (80), NDI
+6,2. Thyroiditis (60)
+6,3. Pheochromocytoma (50)
+6,4. Anxiety/Depression with weight gain (30)
+6,5. Adrenal Insufficiency (20)
+6,6. Hypercortisolism (15)
+6,7. Pancreatitis (10)
+7,1. Primary Hypothyroidism (80), NDI
+7,2. Polycythemia Vera (60)
+7,3. Iron Deficiency Anemia (40)
+7,4. Chronic Fatigue Syndrome (30)
+7,5. Anemia of Chronic Disease (20)
+7,6. Vitamin B12 Deficiency (15)
+7,7. Adrenal Insufficiency (10)
+7,8. Anemia of Chronic Inflammation (5)
+8,1. Sleep Apnea (80), DI1
+8,2. Narcolepsy (60)
+8,3. Attention Deficit Hyperactivity Disorder (ADHD) (50)
+8,4. Restless Leg Syndrome (40)
+8,5. Rett Syndrome (20)
+8,6. Primary Sleep Disorder (15)
+9,1. Streptococcal Pharyngitis (90), NDI
+9,2. Influenza (80)
+9,3. Streptococcal Meningitis (60)
+9,4. Kawasaki Disease (50)
+9,5. Viral Pneumonia (40)
+9,6. Acute Exacerbation of Asthma (30)
+9,7. Allergic Reaction to Pig Exposure (20)
+10,1. Endometriosis (80), DI1
+10,2. Adenomyosis (60)
+10,3. Polycystic Ovary Syndrome (PCOS) (50)
+10,4. Uterine Fibroids (40)
+10,5. Pelvic Inflammatory Disease (PID) (30)
+10,6. Endometrial Hyperplasia (20)
+10,7. Ovarian Cysts (10)
+11,1. Hypothyroidism (95), DI1
+11,2. Anemia (85)
+11,3. Addison's disease (75)
+11,4. Vitamin D deficiency (70)
+11,5. Celiac disease (60)
+11,6. Sjögren's syndrome (55)
+11,7. Hashimoto's thyroiditis (50)
+11,8. Adrenal insufficiency (45)
+11,9. Pernicious anemia (40)
+11,10. Hypocalcemia (35)
+12,1. Meningitis - 80, DI1
+12,2. Viral encephalitis - 60
+12,3. Sinusitis - 40
+12,4. Trigeminal neuralgia - 30
+12,5. Meningococcal infection - 20
+12,6. Bacterial meningitis - 20
+12,7. Traumatic subdural hematoma - 10
+12,8. Chronic sinusitis - 5
+12,9. Post-traumatic headache - 5
+13,1. Pediatric Botulism (95)
+13,2. Pediatric Meningitis (85)
+13,3. Croup (70)
+13,4. Epiglottitis (65), DI1
+13,5. Foreign Body Aspiration (55)
+13,6. Viral Pharyngitis (50)
+13,7. Acute Posterior Cricoid Pseudomembrane Disease (40)
+13,8. Kawasaki Disease (35)
+13,9. Retropharyngeal Abscess (30)
+13,10. Measles (25)
+14,1. Hemolytic Disease of the Newborn (HDN) - 90, NDI
+14,2. Immune thrombocytopenia (ITP) - 60
+14,3. Autoimmune hemolytic anemia (AIHA) - 50
+14,4. Pernicious anemia - 40
+14,5. Sickle cell disease - 30
+14,6. Thalassemia major - 20
+14,7. Iron deficiency anemia (IDAH) - 10
+14,8. Vitamin B12 deficiency anemia - 10
+14,9. Folate deficiency anemia - 10
+15,1. Panic Disorder - 90, NDI
+15,2. Hypertension-related Chest Pain - 80
+15,3. Coronary Artery Disease - 60
+15,4. Pulmonary Embolism - 50
+15,5. Gastroesophageal Reflux Disease (GERD) - 40
+15,6. Anxiety Disorder - 30
+15,7. Ischemic Heart Disease - 20
+16,1. Acute Asthma (80)
+16,2. Inhaled Allergen-Induced Bronchospasm (70)
+16,3. Viral Cough Syndrome (50)
+16,4. Pneumonia (40)
+16,5. Infectious Bronchitis (30)
+16,6. Reactive Airway Disease (20)
+16,7. Foreign Body Aspiration (10), DI1
+17,1. Human Papillomavirus (HPV) infection (80)
+17,2. Low-grade cervical intraepithelial neoplasia (LGIN) (60)
+17,3. High-grade cervical intraepithelial neoplasia (HGIN) (40)
+17,4. Cervical cancer (20), DI1
+17,5. Infection with other sexually transmitted infections (10)
+17,6. Iatrogenic causes (e.g. mechanical trauma) (5)
+17,7. Benign cervical lesions (5)
+18,1. Congestive Heart Failure (CHF) - 90, DI1
+18,2. Pulmonary Embolism (PE) - 60
+18,3. Chronic Obstructive Pulmonary Disease (COPD) - 50
+18,4. Chronic Thromboembolic Pulmonary Hypertension (CTEPH) - 40
+18,5. Pulmonary Edema - 30
+19,1. Chronic Obstructive Pulmonary Disease (COPD) - 90, DI1
+19,2. Pulmonary Embolism - 80
+19,3. Idiopathic Pulmonary Fibrosis (IPF) - 60
+19,4. Chronic Lymphocytic Leukemia (CLL) - 50
+19,5. Small Cell Lung Cancer (SCLC) - 40
+19,6. Hypersensitivity Pneumonitis - 30
+19,7. Connective Tissue Disease (e.g. SLE, RA) - 20
+19,8. Pneumonia (e.g. atypical or bacterial) - 10
+20,1. Frontotemporal dementia (FTD) - 95, NDI
+20,2. Lewy body dementia (LBD) - 85
+20,3. Normal pressure hydrocephalus (NPH) - 60
+20,4. Alzheimer's disease - 40
+20,5. Vascular dementia - 30
+20,6. Chronic traumatic encephalopathy (CTE) - 20
+21,1. Giardiasis (90), DI1
+21,2. Cryptosporidiosis (80)
+21,3. Cysticercosis (70)
+21,4. Intestinal Strongyloides (60)
+21,5. Microsporidiosis (50)
+21,6. Echinococcosis (40)
+21,7. Strongyloidiasis (30)
+22,1. Histoplasmosis - 90
+22,2. Coccidioidomycosis - 80
+22,3. Aspergillosis - 70, DI1
+22,4. Sarcoidosis - 60
+22,5. Tuberculosis (re-activation) - 50
+22,6. Nocardiosis - 40
+23,1. Malaria (80)
+23,2. Dengue fever (70), DI1
+23,3. Tick-borne illness (e.g. Lyme disease) (60)
+23,4. Influenza (50)
+23,5. Viral hemorrhagic fever (40)
+23,6. Typhoid fever (30)
+23,7. Leptospirosis (25)
+23,8. Mononucleosis (20)
+23,9. Post-exposure rabies (15)
+24,1. Pneumonia (90), DI1
+24,2. Bronchitis (80)
+24,3. Pneumonic plague (70)
+24,4. Tuberculosis (65)
+24,5. Influenza (60)
+24,6. Acute bronchiolitis (50)
+24,7. Pulmonary embolism (40)
+24,8. Chronic obstructive pulmonary disease (COPD) exacerbation (30)
+25,1. Tuberculosis (TB) - 80
+25,2. Osteomyelitis - 75, DI1
+25,3. Osteosarcoma - 60
+25,4. Eosinophilic granuloma - 50
+25,5. Other bone tumors - 40
+25,6. Infection (bacterial or viral) - 30
+25,7. Rheumatoid arthritis - 20
+25,8. Juvenile idiopathic arthritis - 15
+26,1. Unruptured ectopic pregnancy (95), DI1
+26,2. Ovarian torsion (70)
+26,3. Pelvic inflammatory disease (40)
+26,4. Endometriosis (30)
+26,5. Appendicitis (20)
+26,6. Ovarian cyst (10)
+26,7. Tubal ligation complications (5)
+27,1. Iron deficiency anemia (90), DI1
+27,2. Anemia of chronic disease (70)
+27,3. Sickle cell disease (50)
+27,4. Thalassemia (40)
+27,5. Beta-thalassemia major (30)
+27,6. Chronic fatigue syndrome (20)
+27,7. Hypothyroidism (15)
+27,8. Cardiovascular disease (e.g. chronic heart failure) (10)
+28,1. Lyme disease (95), DI1
+28,2. Viral pharyngitis (20)
+28,3. Appendicitis (10)
+28,4. Osteomyelitis (60)
+28,5. Juvenile idiopathic arthritis (30)
+28,6. Musculoskeletal sprain (10)
+28,7. Pediatric cellulitis (25)
+28,8. Urinary tract infection (5)
+29,1. Scarlet fever (95)
+29,2. Erythema infectiosum (88)
+29,3. Hand-foot-and-mouth disease (80)
+29,4. Kawasaki disease (75), DI1
+29,5. Impetigo (60)
+29,6. Chickenpox (55)
+29,7. Impetigo herpetiformis (50)
+29,8. Erythema multiforme (45)
+30,1. Medial elbow dislocation (Confidence score: 90), DI1
+30,2. Lateral elbow dislocation (Confidence score: 80)
+30,3. Olecranon bursitis (Confidence score: 60)
+30,4. Elbow bursitis (Confidence score: 50)
+30,5. Tendinitis of the biceps (Confidence score: 40)
+30,6. Tenosynovitis of the biceps (Confidence score: 30)
+30,7. Medial epicondylitis (Confidence score: 20)
+30,8. Radial head impingement (Confidence score: 10)

@@ -1,0 +1,131 @@
+1,1. Acute upper gastrointestinal bleeding (confidence 95), NDI
+1,2. Aortic dissection (confidence 70)
+1,3. Pulmonary embolism (confidence 30)
+1,4. Severe anemia (confidence 10)
+2,1. Mycobacterium tuberculosis infection (confidence: 85), NDI
+2,2. Atypical mycobacterial infection (confidence: 70)
+2,3. Bacterial pneumonia (confidence: 15)
+2,4. Viral pneumonia (confidence: 5)
+3,1. Pneumothorax (Confidence: 70)
+3,2. Tension pneumothorax (Confidence: 60)
+3,3. Pneumomediastinum (Confidence: 40)
+3,4. Atelectasis (Confidence: 30)
+3,5. Pulmonary embolism (Confidence: 25), DI1
+4,1. Myocardial Infarction (Heart Attack) – Confidence 95%, DI1
+4,2. Pericarditis – Confidence 60%
+4,3. Pulmonary Embolism – Confidence 30%
+4,4. Aortic Dissection – Confidence 10%
+5,1. Rheumatoid Arthritis (Confidence: 70), NDI
+5,2. Gout (Confidence: 25)
+5,3. Inflammatory Bowel Disease (e.g., Crohn's disease) (Confidence: 15)
+6,1. Hyperthyroidism (80)
+6,2. Graves' disease (75), DI1
+6,3. Subacute (decompensated) myotonia congenita (60)
+6,4. Wilson's disease (20)
+6,5. Anxiety disorder (10)
+7,1. Major Depressive Disorder – 95, DI1
+7,2. Bipolar Disorder (Manic Episode) – 70
+7,3. Anxiety Disorder (Generalized Anxiety Disorder) – 60
+7,4. Substance Use Disorder – 40
+7,5. Iron Deficiency Anemia – 5 (Laboratory tests within normal limits, but fatigue and anemia symptoms suggest otherwise; ruled out based on provided information)
+8,1. Obstructive Sleep Apnea (OSA) – Confidence: 85, DI1
+8,2. Attention Deficit Hyperactivity Disorder (ADHD) – Confidence: 70
+8,3. Restless Legs Syndrome (RLS) – Confidence: 20
+8,4. Anxiety or Sleep-related Behavioral Disorders – Confidence: 5
+9,1. Aseptic Meningitis (Confidence: 85), NDI
+9,2. Pulmonary Eosinophilic Emphysematous Pneumonia (EEP) (Confidence: 70)
+9,3. Lymphangioleiomyomatosis (LAM) (Confidence: 15)
+9,4. Necrotizing Pneumonitis (Confidence: 5)
+10,1. Endometriosis (85), DI1
+10,2. Dysmenorrhea (70)
+10,3. Uterine fibroids (60)
+10,4. Ovarian cyst (50)
+10,5. Pelvic inflammatory disease (30)
+11,1. Myasthenia Gravis (Confidence: 85)
+11,2. Hypothyroidism (Confidence: 70), DI1
+11,3. Chronic Fatigue Syndrome (Confidence: 60)
+11,4. Addison's Disease (Confidence: 40)
+11,5. Multiple Sclerosis (Confidence: 20)
+12,1. Subdural hematoma (confidence 85)
+12,2. Meningitis (confidence 75), DI1
+12,3. Epidural hematoma (confidence 20)
+12,4. Skull fracture without intracranial bleed (confidence 5)
+13,1. Orbital / Paranasal Sinus Epidural Abscess (Confidence: 85), NDI
+13,2. Orbital Cellulitis (Confidence: 15)
+13,3. Periorbital Cellulitis (Confidence: 5)
+14,1. Thalassemia trait (Confidence: 70), NDI
+14,2. Iron deficiency anemia (Confidence: 60)
+14,3. Hemolytic anemia (Confidence: 50)
+14,4. Bone marrow infiltration (Confidence: 30)
+15,1. Atrial Fibrillation (Confidence: 85)
+15,2. Paroxysmal Atrial Fibrillation (Confidence: 60), DI1
+15,3. Supraventricular Tachycardia (Confidence: 40)
+15,4. Anxiety or Panic Disorder (Confidence: 20)
+15,5. Mitral Valve Prolapse (Confidence: 10)
+16,1. Bronchiolitis (Confidence 85), NDI
+16,2. Acute Bronchitis (Confidence 70)
+16,3. Asthma exacerbation (Confidence 60)
+16,4. Pneumonia (Confidence 20)
+16,5. Foreign body airway obstruction (Confidence 15)
+17,1. Low-grade squamous intraepithelial lesion (LSIL) - Confidence: 70
+17,2. High-grade squamous intraepithelial lesion (HSIL) - Confidence: 20
+17,3. Cervical intraepithelial neoplasia type 2 (CIN2) - Confidence: 10, DI1
+17,4. Benign adenocarcinoma in situ (BAS) - Confidence: 5
+17,5. Cervical cancer (stage I) - Confidence: 5
+18,1. Heart Failure (Confidence: 85), DI1
+18,2. Chronic Obstructive Pulmonary Disease (COPD) (Confidence: 60)
+18,3. Pneumonia (Confidence: 40)
+18,4. Pulmonary Embolism (Confidence: 25)
+19,1. Chronic Obstructive Pulmonary Disease (COPD) – Confidence: 85, DI1
+19,2. Interstitial Pneumonitis (e.g., Sarcoidosis, Pneumonitis) – Confidence: 15
+19,3. Pulmonary Embolism – Confidence: 5
+20,1. Alzheimer's Disease (Confidence: 85)
+20,2. Lewy Body Dementia (Confidence: 70)
+20,3. Vascular Dementia (Confidence: 20)
+20,4. Creutzfeldt-Jakob Disease (Confidence: 5), DI1
+21,1. Giardiasis (confidence: 95), DI1
+21,2. Cryptosporidiosis (confidence: 60)
+21,3. Entamoeba histolytica infection (confidence: 20)
+22,1. Pulmonary nocardiosis (confidence score: 85), NDI
+22,2. Mycetoma (confidence score: 10)
+22,3. Tuberculosis (confidence score: 5)
+23,1. Infectious Mononucleosis (Epstein-Barr Virus) – Confidence: 85
+23,2. Malaria (Plasmodium species) – Confidence: 70
+23,3. Dengue Fever – Confidence: 60, DI1
+23,4. Rocky Mountain Spotted Fever (Rickettsia rickettsii) – Confidence: 40
+23,5. Syphilis (Treponema pallidum) – Confidence: 30
+23,6. Kawasaki Disease – Confidence: 20
+23,7. Behçet’s Disease – Confidence: 10
+24,1. Acute Bronchitis (Confidence: 85)
+24,2. Pneumonia (Confidence: 75), DI1
+24,3. Asthma exacerbation (Confidence: 60)
+24,4. Tuberculosis (Confidence: 15)
+25,1. Osteomyelitis (90), DI1
+25,2. Dislocated Patella (70)
+25,3. Osteonecrosis (60)
+25,4. Tumor (50)
+25,5. Rheumatoid Arthritis (30)
+25,6. Traumatic Injury (20)
+26,1. Ectopic Pregnancy (Confidence 95), DI1
+26,2. Tubal Factor Infertility (Confidence 60)
+26,3. Ovarian Cyst (Confidence 20)
+26,4. Pelvic Inflammatory Disease (Confidence 10)
+27,1. Iron‑deficiency anemia (confidence 95), DI1
+27,2. Chronic blood loss (confidence 70)
+27,3. Pernicious anemia (confidence 20)
+27,4. Aplastic anemia (confidence 5)
+27,5. Coeliac disease (confidence 5)
+28,1. Lyme arthritis (confidence 85), DI1
+28,2. Osteomyelitis (confidence 70)
+28,3. Septic arthritis (confidence 60)
+28,4. Gout (confidence 10)
+28,5. Rheumatoid arthritis (confidence 5)
+29,1. Kawasaki Disease (90), DI1
+29,2. Scarlet Fever (70)
+29,3. Toxic Shock Syndrome (30)
+29,4. Strep Throat with Group A Streptococcus infection (20)
+30,1. Radial Tuberosity Avulsion Fracture with Ulnar Shaft Dislocation (Confidence: 95)
+30,2. Ulnar Shaft Fracture with Posterior Dislocation of the Elbow Joint (Confidence: 80)
+30,3. Severe Elbow Sprain with Partial Dislocation (Confidence: 60), DI1
+30,4. Chronic Ulnar Stress Fracture with Dislocation (Confidence: 40)
+30,5. Avulsion Fracture of the Ulnar Nerve (Confidence: 20)
