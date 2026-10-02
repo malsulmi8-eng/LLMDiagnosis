@@ -1,0 +1,180 @@
+1,1. Stable angina pectoris (Coronary artery disease) - 85, DI1, DI3
+1,2. Esophageal spasm / Gastroesophageal reflux disease - 45, DI4
+1,3. Microvascular angina - 35
+1,4. Thoracic aortic dissection / Thoracic aortic aneurysm - 30
+1,5. Musculoskeletal chest wall pain (e.g., thoracic spine dysfunction, costochondritis) - 25
+2,1. Hantavirus pulmonary syndrome - 85, DI3
+2,2. Viral pneumonia (e.g., COVID-19, Influenza, Adenovirus) - 75
+2,3. *Mycoplasma pneumoniae* pneumonia - 65, DI2
+2,4. Pneumonic plague (*Yersinia pestis*) - 45
+2,5. Legionnaires' disease (*Legionella pneumophila*) - 40
+2,6. Pneumonic tularemia (*Francisella tularensis*) - 35
+2,7. Endemic fungal pneumonia (e.g., Coccidioidomycosis, Histoplasmosis) - 25
+3,1. Primary non-small cell lung cancer (adenocarcinoma) with brain metastasis - 75, DI4
+3,2. Metastatic malignancy from an alternate primary site (e.g., breast carcinoma, renal cell carcinoma, melanoma) to lung and brain - 50, DI5
+3,3. Synchronous primary tumors (e.g., primary lung cancer with incidental meningioma or primary brain tumor) - 25, DI2
+3,4. Disseminated granulomatous infection (e.g., tuberculosis, histoplasmosis, cryptococcosis) - 20
+3,5. Brain abscess secondary to pulmonary infection/abscess - 10
+3,6. Systemic inflammatory disease (e.g., sarcoidosis, granulomatosis with polyangiitis) - 5
+4,1. Kawasaki disease: 98, DI1
+4,2. Multisystem Inflammatory Syndrome in Children (MIS-C): 65
+4,3. Toxic shock syndrome: 20
+4,4. Scarlet fever: 15
+4,5. Systemic juvenile idiopathic arthritis: 10
+4,6. Adenovirus infection: 5
+5,1. Pulmonary embolism - 95, DI1
+5,2. Deep vein thrombosis - 85, DI2
+5,3. Pneumonia - 35
+5,4. Atelectasis - 30
+5,5. Pleural effusion - 25
+5,6. Congestive heart failure - 15
+5,7. Pneumothorax - 10
+6,1. Cellulitis (with abscess or bullae formation) - 80, DI2
+6,2. Venous stasis ulcer (secondarily infected) - 75, DI1
+6,3. Diabetic neuroischemic ulcer - 70
+6,4. Necrotizing soft tissue infection (necrotizing fasciitis) - 45
+6,5. Ulcerated necrobiosis lipoidica - 40
+6,6. Ecthyma - 35
+6,7. Pyoderma gangrenosum - 25
+6,8. Arterial (ischemic) ulcer - 20
+7,1. Bipolar disorder, current episode mixed – 85
+7,2. Bipolar depression with mixed features (agitated depression) – 80
+7,3. Subtherapeutic lithium levels / Medication non-adherence – 75, DI2, DI3
+7,4. Zolpidem-induced adverse reaction, tolerance, or withdrawal – 65, DI1
+7,5. Lithium toxicity – 50
+7,6. Lithium-induced thyroid dysfunction (hypothyroidism or hyperthyroidism) – 45
+7,7. Comorbid borderline personality disorder exacerbation – 40
+8,1. Creutzfeldt-Jakob disease: 95, DI1
+8,2. Frontotemporal lobar degeneration: 35
+8,3. Dementia with Lewy bodies: 20
+8,4. Alzheimer's disease: 15, DI3
+8,5. Autoimmune encephalitis: 10, DI2
+9,1. Acrochordon (Skin tag) - 95, DI1
+9,2. Pedunculated intradermal melanocytic nevus - 60, DI2
+9,3. Cutaneous neurofibroma - 45, DI4
+9,4. Seborrheic keratosis - 35, DI3
+9,5. Filiform wart (Verruca filiformis) - 20
+9,6. Fibrolipoma - 15, DI5
+10,1. Right femoral artery pseudoaneurysm with thromboembolism - 85, DI2
+10,2. Iatrogenic right femoral artery dissection - 75, DI4
+10,3. Acute right femoral artery thrombosis - 70, DI5
+10,4. Right femoral arteriovenous fistula with arterial steal - 55, DI2
+10,5. Femoral sheath site hematoma with external arterial compression - 45
+10,6. Distal atheroembolism (cholesterol embolization syndrome) - 30
+11,1. Early necrotizing soft tissue infection (necrotizing fasciitis) – 75
+11,2. Acute aortic dissection (Stanford Type A / involving brachiocephalic artery) – 68
+11,3. Acute myocardial infarction with cardiogenic shock – 62, DI2
+11,4. Streptococcal toxic shock syndrome – 54
+11,5. Acute upper limb arterial ischemia / thromboembolism – 41
+12,1. Hypothyroidism (Hashimoto's thyroiditis) - 95, DI1
+12,2. Iron deficiency anemia - 45, DI4
+12,3. Major depressive disorder - 35, DI3
+12,4. Systemic lupus erythematosus - 25
+12,5. Polycystic ovary syndrome (PCOS) - 20
+13,1. Pulmonary embolism - 85%, DI3
+13,2. Peripartum cardiomyopathy - 70%, DI1
+13,3. Community-acquired pneumonia - 50%
+13,4. Postpartum preeclampsia with pulmonary edema - 40%, DI2
+13,5. Acute asthma exacerbation - 30%
+13,6. Spontaneous pneumothorax - 25%
+14,1. Chronic / Subacute Subdural Hematoma: 95, DI1
+14,2. Traumatic Intracerebral Hemorrhage / Contusion: 55
+14,3. Metabolic Encephalopathy (e.g., hyponatremia, uremia): 45, DI2
+14,4. Acute/Subacute Ischemic Stroke: 35, DI4
+14,5. Post-traumatic Hydrocephalus: 30, DI3
+14,6. Medication-induced Neurotoxicity / Delirium: 25, DI5
+14,7. Intracranial Infection (e.g., meningitis, subdural empyema): 15
+15,1. Degenerating uterine leiomyoma (fibroid) - 85
+15,2. Hydatidiform mole (with hook effect causing false-negative pregnancy test) - 65, DI1
+15,3. Uterine sarcoma (e.g., leiomyosarcoma with cystic degeneration) - 45, DI2
+15,4. Cystic adenomyosis - 35
+15,5. Hematometra / Pyometra - 25
+15,6. Uterine arteriovenous malformation - 15
+16,1. Rabies (Encephalitic/Furious) - 95, DI1  
+16,2. Tetanus - 35  , DI7
+16,3. Viral Encephalitis (e.g., Herpes Simplex Virus, Arboviruses) - 20, DI2  
+16,4. Psychogenic Rabies (Rabies Hysteria / Conversion Disorder) - 15  
+16,5. Acute Disseminated Encephalomyelitis (ADEM) - 10
+17,1. Pyogenic liver abscess (bacterial) - 90%, NDI
+17,2. *Campylobacter* species infection (e.g., *Campylobacter jejuni* / *Campylobacter fetus*) - 75%
+17,3. Amebic liver abscess (*Entamoeba histolytica*) - 40%
+17,4. Fungal liver abscess (*Candida* species) - 25%
+17,5. *Salmonella* species liver abscess - 20%
+17,6. Tuberculous liver abscess - 10%
+18,1. Acute tubular necrosis - 85
+18,2. Acute glomerulonephritis - 70
+18,3. Renal vein thrombosis - 55
+18,4. Hemolytic uremic syndrome - 50
+18,5. Acute interstitial nephritis - 40, DI2
+19,1. Esophageal squamous cell carcinoma - 88, DI1
+19,2. Esophageal adenocarcinoma - 72
+19,3. Peptic esophageal stricture - 45
+19,4. Pseudoachalasia (secondary to malignancy) - 35
+19,5. Primary achalasia - 25
+19,6. Mediastinal mass / Bronchogenic carcinoma with extrinsic compression - 20
+20,1. Splenic laceration / rupture - 90, NDI
+20,2. Hepatic laceration / injury - 85
+20,3. Hollow viscus perforation (e.g., small bowel or colonic injury) - 80
+20,4. Mesenteric tear / injury - 75
+20,5. Traumatic hemoperitoneum (unspecified solid organ or vascular injury) - 70
+20,6. Retroperitoneal hematoma / Pelvic fracture-associated hemorrhage - 65
+20,7. Traumatic diaphragmatic rupture - 50
+20,8. Renal laceration / trauma - 45
+20,9. Traumatic bladder rupture - 40
+21,1. Systemic Lupus Erythematosus (with Lupus Nephritis) - 98, DI1
+21,2. Mixed Connective Tissue Disease - 25
+21,3. Drug-Induced Lupus Erythematosus - 15
+21,4. ANCA-Associated Vasculitis - 10
+21,5. Dermatomyositis - 5
+22,1. Acute appendicitis - 95, DI1
+22,2. Mesenteric lymphadenitis - 25
+22,3. Terminal ileitis / Crohn's disease - 15
+22,4. Ruptured ovarian cyst - 10
+22,5. Ovarian torsion - 10
+22,6. Pelvic inflammatory disease - 5
+23,1. Chronic Obstructive Pulmonary Disease (COPD) exacerbation - 92, DI1
+23,2. Asthma exacerbation - 45
+23,3. Acute bronchitis - 40
+23,4. Congestive heart failure - 30
+23,5. Pulmonary embolism - 25
+23,6. Bronchiectasis - 20
+24,1. Delayed traumatic splenic rupture - 95, DI1
+24,2. Ruptured post-traumatic splenic pseudoaneurysm - 65
+24,3. Pathologic splenic rupture (e.g., secondary to infectious mononucleosis or hematologic malignancy precipitated by trauma) - 20
+24,4. Spontaneous (atraumatic) splenic rupture - 5
+25,1. Epidural hematoma - 90
+25,2. Acute subdural hematoma - 80
+25,3. Traumatic cerebral contusion with mass effect / brain herniation - 65
+25,4. Severe traumatic brain injury with diffuse cerebral edema - 55, DI1
+25,5. Depressed skull fracture with intracranial hemorrhage - 45
+25,6. Traumatic subarachnoid hemorrhage - 35
+26,1. Encounter for travel health consultation and disease prophylaxis: 95, DI1
+26,2. Intrauterine pregnancy: 90
+26,3. Risk of exposure to malaria: 85
+26,4. Risk of exposure to Zika virus: 70
+26,5. Risk of exposure to other arboviral infections (Dengue, Chikungunya): 60
+27,1. Familial Adenomatous Polyposis (FAP) - 90, DI1
+27,2. MUTYH-Associated Polyposis (MAP) - 75
+27,3. Attenuated Familial Adenomatous Polyposis (AFAP) - 65
+27,4. Polymerase Proofreading-Associated Polyposis (PPAP) - 40
+27,5. NTHL1-Associated Polyposis - 25
+27,6. Lynch Syndrome - 20
+27,7. Juvenile Polyposis Syndrome - 15
+27,8. Peutz-Jeghers Syndrome - 10
+28,1. Prolactinoma (Pituitary adenoma) - 85
+28,2. Medication-induced hyperprolactinemia - 65, DI1
+28,3. Primary hypothyroidism - 50
+28,4. Non-functioning pituitary sellar mass (pituitary stalk compression) - 40
+28,5. Idiopathic hyperprolactinemia - 35
+28,6. Polycystic ovary syndrome (PCOS) - 20
+29,1. Osteopenia - 85
+29,2. Postmenopausal osteoporosis - 70, DI1
+29,3. Secondary osteoporosis (related to diabetes and tobacco use) - 55
+29,4. Vitamin D deficiency - 50
+29,5. Normal bone mineral density - 30
+30,1. Peripheral artery disease - 95, DI1
+30,2. Renal artery stenosis - 75
+30,3. Lumbar spinal stenosis - 25
+30,4. Chronic venous insufficiency - 15
+30,5. Deep vein thrombosis - 10
+30,6. Popliteal artery entrapment syndrome - 5

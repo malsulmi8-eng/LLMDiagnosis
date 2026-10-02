@@ -1,0 +1,254 @@
+1,1. Hemorrhagic shock due to acute upper gastrointestinal bleeding — 97  
+1,2. Peptic ulcer disease with upper gastrointestinal hemorrhage — 88  
+1,3. Erosive gastritis/gastropathy with upper gastrointestinal bleeding — 70  
+1,4. Esophageal variceal hemorrhage — 60  
+1,5. Mallory–Weiss tear — 50  
+1,6. Gastric or esophageal malignancy with bleeding — 30  
+1,7. Septic shock with secondary gastrointestinal bleeding — 18  , DI1
+1,8. Cardiogenic shock — 10
+2,1. Cytomegalovirus (CMV) pneumonitis — 95  , DI1
+2,2. Herpes simplex virus (HSV) pneumonitis — 40  
+2,3. Adenovirus pneumonitis — 30  
+2,4. Varicella-zoster virus (VZV) pneumonitis — 20  
+2,5. Measles-associated giant cell pneumonitis — 10
+3,1. Pulmonary embolism — 95  , DI1
+3,2. Deep vein thrombosis — 85  
+3,3. Pneumonia with pleurisy — 40  
+3,4. Acute coronary syndrome — 30  
+3,5. Pneumothorax — 25  
+3,6. Congestive heart failure exacerbation — 20  
+3,7. Pericarditis — 15  
+3,8. Musculoskeletal chest pain — 10  
+3,9. Cellulitis of the right leg — 10  
+3,10. Ruptured Baker’s cyst — 5
+4,1. Takotsubo cardiomyopathy — 95  
+4,2. Acute myocardial infarction with non-obstructive coronary arteries — 65, DI1  
+4,3. Coronary artery vasospasm — 55  
+4,4. Acute myocarditis — 40  
+4,5. Myopericarditis — 25  
+4,6. Spontaneous coronary artery dissection — 20  
+4,7. Pheochromocytoma-associated catecholamine cardiomyopathy — 10
+5,1. Acute rheumatic fever — 70  , DI1
+5,2. Disseminated gonococcal infection — 65  
+5,3. Adult-onset Still’s disease — 55  
+5,4. Systemic lupus erythematosus — 45  
+5,5. Viral arthritis — 40  
+5,6. Reactive arthritis — 30  
+5,7. Lyme disease — 25  
+5,8. Infective endocarditis — 20  
+5,9. Early rheumatoid arthritis — 15  
+5,10. Hematologic malignancy — 10
+6,1. Graves disease — 95  , DI1
+6,2. Thyrotoxicosis due to toxic multinodular goiter — 25  
+6,3. Thyrotoxicosis due to toxic adenoma — 20  
+6,4. Diabetes mellitus — 15  
+6,5. Pheochromocytoma — 10  
+6,6. Anxiety/panic disorder — 5
+7,1. Major depressive disorder — 95 , DI1 
+7,2. Depressive episode, single episode — 90  
+7,3. Persistent depressive disorder (dysthymia) — 40  
+7,4. Adjustment disorder with depressed mood — 35  
+7,5. Bipolar II disorder, current episode depressed — 20  
+7,6. Bipolar I disorder, current episode depressed — 15  
+7,7. Substance/medication-induced depressive disorder — 15  
+7,8. Depressive disorder due to another medical condition — 12  
+7,9. Hypothyroidism presenting with depressive symptoms — 10  
+7,10. Premenstrual dysphoric disorder — 8
+8,1. Obstructive sleep apnea due to adenotonsillar hypertrophy — 95 , DI1 
+8,2. Pediatric sleep-disordered breathing / upper airway resistance syndrome — 70  
+8,3. Primary snoring — 45  
+8,4. Chronic allergic rhinitis with nasal obstruction — 35  
+8,5. Central sleep apnea — 20  
+8,6. Narcolepsy / idiopathic hypersomnia — 15  
+8,7. Attention-deficit/hyperactivity disorder — 15  
+8,8. Obesity hypoventilation syndrome — 10  
+8,9. Nocturnal seizures — 8  
+8,10. Hypothyroidism — 5
+9,1. Trichinellosis (Trichinella spiralis infection) — 98  , DI1
+9,2. Toxocariasis / visceral larva migrans — 20  
+9,3. Dermatomyositis — 15  
+9,4. Allergic angioedema / food allergy reaction — 12  
+9,5. Taenia solium cysticercosis — 8
+10,1. Endometriosis — 85  , DI1
+10,2. Adenomyosis — 80  
+10,3. Uterine leiomyoma (fibroids) — 65  
+10,4. Endometrial polyps — 45  
+10,5. Endometrial hyperplasia / endometrial carcinoma — 30  
+10,6. Chronic endometritis — 25  
+10,7. Pelvic inflammatory disease — 20  
+10,8. Cervical pathology / cervicitis — 15  
+10,9. Ectopic pregnancy — 10
+11,1. Primary hypothyroidism / Hashimoto thyroiditis — 95 , DI1  
+11,2. Secondary hypothyroidism — 25  
+11,3. Iron-deficiency anemia — 15  
+11,4. Menopause — 12  
+11,5. Major depressive disorder — 10  
+11,6. Hypercalcemia — 8  
+11,7. Adrenal insufficiency — 7  
+11,8. Chronic kidney disease — 5
+12,1. Acute bacterial meningitis — 95  , DI1
+12,2. Viral (aseptic) meningitis — 80  
+12,3. Pneumococcal meningitis — 75  
+12,4. Meningococcal meningitis — 75  
+12,5. Tuberculous meningitis — 55  
+12,6. Cryptococcal meningitis — 45  
+12,7. Brain abscess — 35  
+12,8. Viral encephalitis — 30  
+12,9. Subarachnoid hemorrhage — 25  
+12,10. Meningeal carcinomatosis — 15
+13,1. Acute epiglottitis — 95  , DI1
+13,2. Retropharyngeal abscess — 72  
+13,3. Bacterial tracheitis — 65  
+13,4. Peritonsillar abscess — 55  
+13,5. Viral croup / laryngotracheobronchitis — 42  
+13,6. Airway foreign body aspiration — 30  
+13,7. Diphtheria — 18  
+13,8. Angioedema / anaphylaxis — 15  
+13,9. Ludwig angina — 12  
+13,10. Infectious mononucleosis with upper airway obstruction — 8
+14,1. Paroxysmal nocturnal hemoglobinuria — 88/100 , DI1 
+14,2. Autoimmune hemolytic anemia — 55/100  
+14,3. Pregnancy-associated thrombotic microangiopathy (TTP/aHUS) — 45/100  
+14,4. Hereditary hemolytic anemia (e.g., hereditary spherocytosis, G6PD deficiency, pyruvate kinase deficiency) — 42/100  
+14,5. Hemoglobinopathy (thalassemia/sickle cell disease) — 38/100  
+14,6. Megaloblastic anemia due to folate or vitamin B12 deficiency — 30/100  
+14,7. HELLP syndrome — 28/100  
+14,8. Refractory iron deficiency anemia due to malabsorption or chronic blood loss — 15/100
+15,1. Paroxysmal atrial fibrillation or atrial flutter — 88, DI1  
+15,2. Paroxysmal supraventricular tachycardia — 62  
+15,3. Heart failure with preserved ejection fraction — 58  
+15,4. Coronary microvascular dysfunction / ischemia with non-obstructive coronary arteries — 52  
+15,5. Occult patent foramen ovale or atrial septal aneurysm — 45  
+15,6. Obstructive sleep apnea — 42  
+15,7. Sick sinus syndrome / tachy-brady syndrome — 38  
+15,8. Hyperthyroidism — 32  
+15,9. Anemia — 30  
+15,10. Anxiety or panic disorder — 28  
+15,11. Diabetic cardiovascular autonomic neuropathy — 27  
+15,12. Pulmonary embolism — 22
+16,1. Foreign body aspiration — 85  , DI1
+16,2. Asthma exacerbation / reactive airway disease — 55  
+16,3. Allergic reaction / anaphylaxis — 30  
+16,4. Exercise-induced bronchoconstriction — 25  
+16,5. Viral-induced wheeze — 20  
+16,6. Aspiration pneumonitis — 15  
+16,7. Pneumonia — 10
+17,1. Human papillomavirus (HPV) infection — 98  
+17,2. High-risk cervical HPV infection without cytologic abnormality — 92  
+17,3. Latent/subclinical HPV infection — 85  
+17,4. Cervical intraepithelial neoplasia (CIN) not detected on Pap smear — 15 , DI1 
+17,5. Genital warts / condylomata acuminata — 12  
+17,6. False-positive HPV screening result — 8  
+17,7. Cervical cancer — 2
+18,1. Acute decompensated congestive heart failure — 95, DI1  
+18,2. Ischemic cardiomyopathy — 75  
+18,3. Hypertensive heart disease with heart failure — 70  
+18,4. Dilated cardiomyopathy — 60  
+18,5. Heart failure with preserved ejection fraction — 55  
+18,6. Valvular heart disease — 45  
+18,7. Cor pulmonale / pulmonary hypertension — 30  
+18,8. Volume overload due to chronic kidney disease — 25  
+18,9. Chronic obstructive pulmonary disease exacerbation — 20  
+18,10. Pulmonary embolism — 15
+19,1. Lung cancer — 82  
+19,2. COPD with acute exacerbation — 80  , DI1
+19,3. Chronic bronchitis — 75  
+19,4. Community-acquired pneumonia — 58  
+19,5. Pulmonary tuberculosis — 45  
+19,6. Bronchiectasis — 40  
+19,7. Congestive heart failure — 30  
+19,8. Pulmonary embolism — 22
+20,1. Creutzfeldt-Jakob disease — 90 , DI1 
+20,2. Alzheimer disease — 55  
+20,3. Dementia with Lewy bodies — 50  
+20,4. Vascular dementia — 40  
+20,5. Frontotemporal dementia — 35  
+20,6. Toxic-metabolic encephalopathy — 30  
+20,7. Medication-induced myoclonus/encephalopathy — 28  
+20,8. Autoimmune/paraneoplastic encephalitis — 25  
+20,9. CNS infection/encephalitis — 20  
+20,10. Hypoxic-ischemic encephalopathy — 10
+21,1. Giardiasis (Giardia lamblia/duodenalis infection) — 95 , DI1 
+21,2. Amebiasis (Entamoeba histolytica infection) — 30  
+21,3. Cryptosporidiosis — 20  
+21,4. Dientamoeba fragilis infection — 15  
+21,5. Cyclosporiasis — 12  
+21,6. Cystoisosporiasis — 10  
+21,7. Balantidiasis — 5
+22,1. Pulmonary aspergilloma (fungus ball) — 95  , DI1
+22,2. Chronic pulmonary aspergillosis — 80  
+22,3. Cavitary pulmonary tuberculosis — 55  
+22,4. Cavitary lung carcinoma — 45  
+22,5. Pulmonary histoplasmosis — 35  
+22,6. Pulmonary coccidioidomycosis — 30  
+22,7. Pulmonary mucormycosis — 20  
+22,8. Lung abscess with fungal colonization — 15
+23,1. Dengue fever – 95  , DI1
+23,2. Chikungunya – 70  
+23,3. Zika virus infection – 55  
+23,4. Malaria – 45  
+23,5. Leptospirosis – 30  
+23,6. Typhoid fever – 20  
+23,7. Influenza – 15
+24,1. Community-acquired bacterial pneumonia — 92, DI1  
+24,2. Parapneumonic pleural effusion/empyema — 80  
+24,3. Lung abscess — 45  
+24,4. Acute bronchitis with bronchospasm — 40  
+24,5. Pulmonary tuberculosis — 30  
+24,6. Asthma exacerbation triggered by respiratory infection — 25  
+24,7. Bronchiectasis with acute exacerbation — 20  
+24,8. Pulmonary embolism — 10
+25,1. Ewing sarcoma — 85  
+25,2. Osteosarcoma — 78  
+25,3. Osteomyelitis — 58  , DI1
+25,4. Langerhans cell histiocytosis — 52  
+25,5. Leukemia with osseous involvement — 48  
+25,6. Metastatic neuroblastoma — 38  
+25,7. Aneurysmal bone cyst — 32  
+25,8. Chondroblastoma — 25  
+25,9. Giant cell tumor of bone — 20  
+25,10. Simple bone cyst — 15
+26,1. Non-ruptured tubal ectopic pregnancy — 97/100, DI1  
+26,2. Ectopic pregnancy of unspecified/other location — 78/100  
+26,3. Ruptured ectopic pregnancy — 30/100  
+26,4. Threatened or incomplete miscarriage — 25/100  
+26,5. Corpus luteum cyst rupture/hemorrhage — 20/100  
+26,6. Ovarian torsion — 15/100  
+26,7. Pelvic inflammatory disease / tubo-ovarian abscess — 12/100  
+26,8. Ruptured ovarian cyst — 12/100  
+26,9. Acute appendicitis — 10/100  
+26,10. Degenerating uterine leiomyoma — 8/100
+27,1. Iron deficiency anemia — 95  , DI1
+27,2. Iron deficiency anemia due to heavy menstrual bleeding — 80  
+27,3. Nutritional iron deficiency anemia — 65  
+27,4. Iron deficiency anemia due to occult gastrointestinal blood loss — 40  
+27,5. Celiac disease causing iron malabsorption — 30  
+27,6. Anemia of chronic disease — 10  
+27,7. Thalassemia trait — 5
+28,1. Lyme arthritis — 90  , DI1
+28,2. Septic arthritis — 75  
+28,3. Osteomyelitis — 55  
+28,4. Juvenile idiopathic arthritis — 35  
+28,5. Reactive arthritis — 30  
+28,6. Transient synovitis — 20  
+28,7. Cellulitis or periarticular soft-tissue infection — 15  
+28,8. Acute rheumatic fever — 10  
+28,9. Leukemia or other malignancy — 10
+29,1. Kawasaki disease — 98  , DI1
+29,2. Scarlet fever — 45  
+29,3. Measles — 35  
+29,4. Adenoviral infection — 25  
+29,5. Toxic shock syndrome — 20  
+29,6. Stevens-Johnson syndrome / drug hypersensitivity reaction — 15  
+29,7. Systemic juvenile idiopathic arthritis — 12  
+29,8. Epstein-Barr virus infection — 8
+30,1. Posterior elbow dislocation — 100 , DI1  
+30,2. Posterior elbow fracture-dislocation — 50  
+30,3. Coronoid process fracture — 40  
+30,4. Radial head fracture — 35  
+30,5. Terrible triad injury of the elbow — 30  
+30,6. Olecranon fracture — 25  
+30,7. Distal humerus fracture — 15  
+30,8. Elbow ligamentous instability/sprain — 10  
+30,9. Ulnar nerve injury — 5  
+30,10. Brachial artery injury — 5

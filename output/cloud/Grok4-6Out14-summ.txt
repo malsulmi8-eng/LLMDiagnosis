@@ -1,0 +1,142 @@
+1,1. Stable angina (CAD): 78, DI1
+1,2. GERD/esophageal spasm: 42, DI4
+1,3. Musculoskeletal pain: 31
+1,4. Aortic dissection/aneurysm: 18
+1,5. Anxiety-related: 12
+2,Hantavirus pulmonary syndrome 80, DI3
+2,Atypical/viral pneumonia (e.g. influenza, Mycoplasma) 45, DI2
+2,Pneumonic plague 25
+2,Community-acquired bacterial pneumonia 15
+3,1. Primary lung cancer (adenocarcinoma) with solitary brain metastasis - 65, DI1
+3,2. Synchronous independent primaries (lung neoplasm + meningioma/glioma) - 20, DI2
+3,3. Occult extrapulmonary primary with metastases to lung and brain - 15, DI5
+3,4. Infectious (e.g., abscess, granuloma) - 5
+4,Kawasaki disease: 95, DI1
+4,Scarlet fever: 25
+4,Viral infection (e.g. adenovirus): 15
+4,Systemic JIA: 10
+4,Toxic shock syndrome: 5
+5,1. Pulmonary embolism (92), DI1
+5,2. Deep vein thrombosis (85), DI2
+5,3. Pneumonia (28)
+5,4. Pleural effusion (22)
+5,5. Postoperative atelectasis (18)
+6,1. Cellulitis: 82, DI2
+6,2. Infected diabetic/venous ulcer: 71, DI1
+6,3. Necrobiosis lipoidica (ulcerated): 48
+6,4. Abscess: 41, DI3
+6,5. Pyoderma gangrenosum: 22
+7,1. Bipolar I disorder, mixed episode (82)
+7,2. Bipolar I disorder, manic episode (65)
+7,3. Zolpidem-induced psychiatric effects (48), DI1
+7,4. Bipolar I disorder, depressive episode (35)
+7,5. Cluster B personality disorder (22)
+8,1. Creutzfeldt-Jakob disease 92, DI1
+8,2. Gerstmann-Sträussler-Scheinker syndrome 18
+8,3. Alzheimer disease 12, DI3
+8,4. Dementia with Lewy bodies 8
+8,5. Corticobasal degeneration 5
+9,1. Acrochordon (skin tag) 92, DI1
+9,2. Intradermal melanocytic nevus 55, DI2
+9,3. Neurofibroma 35, DI4
+9,4. Pedunculated seborrheic keratosis 25, DI3
+9,5. Filiform wart 15
+10,1. Femoral artery thrombosis (78), DI5
+10,2. Distal arterial embolization (65)
+10,3. Iatrogenic femoral arteriovenous fistula (52), DI3
+10,4. Femoral artery dissection (48), DI4
+10,5. Femoral pseudoaneurysm with arterial compression (35), DI2
+11,1. Acute aortic dissection (72)
+11,2. Acute myocardial infarction (58), DI2
+11,3. Massive pulmonary embolism (31)
+11,4. Occult hypovolemic shock (22), DI1
+11,5. Septic shock (15)
+12,1. Hypothyroidism (e.g. Hashimoto thyroiditis): 92, DI1
+12,2. Iron-deficiency anemia: 38, DI4
+12,3. Major depressive disorder: 35, DI3
+12,4. Polycystic ovary syndrome: 18
+12,5. Cushing syndrome: 12
+13,1. Pulmonary embolism - 85, DI3
+13,2. Peripartum cardiomyopathy - 55, DI1
+13,3. Pneumonia - 35
+13,4. Pulmonary edema (other etiology) - 20, DI2
+14,1. Chronic subdural hematoma (90), DI1
+14,2. Acute/subacute ischemic stroke (45), DI4
+14,3. Intracerebral hemorrhage (40)
+14,4. Infectious delirium (UTI/pneumonia/sepsis) (35), DI5
+14,5. Metabolic encephalopathy (e.g., hyponatremia) (30), DI2
+14,6. Nonconvulsive seizures/status epilepticus (20)
+14,7. Medication toxicity/sedation (15)
+15,- Hydatidiform mole: 70, DI1
+15,- Cystic degeneration of uterine leiomyoma: 50, DI2
+15,- Missed abortion with hydropic change: 25
+16,Rabies: 95, DI1
+16,Tetanus: 25, DI7
+16,Non-rabies viral encephalitis: 15, DI2
+16,Conversion disorder: 10
+16,Strychnine poisoning: 5
+17,Ruptured pyogenic liver abscess 95
+17,Amebic liver abscess (ruptured) 45
+17,Spontaneous bacterial peritonitis 25, DI1
+17,Perforated viscus 20
+17,Fungal/mycobacterial hepatic abscess 15
+18,Acute tubular necrosis: 80
+18,Acute glomerulonephritis: 45
+18,Acute interstitial nephritis: 20, DI2
+18,Postrenal obstruction: 15
+18,Prerenal azotemia: 5
+19,Esophageal squamous cell carcinoma: 92, DI1
+19,Esophageal adenocarcinoma: 58
+19,Oropharyngeal/hypopharyngeal carcinoma: 28
+19,Peptic stricture: 18
+19,Achalasia: 12
+20,1. Hollow viscus perforation (small bowel/colon) - 85, NDI
+20,2. Splenic laceration/rupture with hemoperitoneum - 75
+20,3. Hepatic laceration with hemoperitoneum - 70
+20,4. Mesenteric injury/tear - 65
+20,5. Pancreatic injury - 40
+21,- Systemic lupus erythematosus: 95, DI1
+21,- Mixed connective tissue disease: 15
+21,- Rheumatoid arthritis: 8
+21,- Sjögren syndrome: 5
+21,- Systemic sclerosis: 5
+22,1. Acute appendicitis (92), DI1
+22,2. Ovarian cyst/torsion (18)
+22,3. Mesenteric adenitis (12)
+22,4. Pelvic inflammatory disease (10)
+22,5. Terminal ileitis/Crohn disease (8)
+23,1. COPD exacerbation (chronic bronchitis/emphysema) (92), DI1
+23,2. Acute bronchitis (45)
+23,3. Asthma exacerbation (28)
+23,4. Congestive heart failure (18)
+23,5. Pneumonia (atypical/occult) (12)
+24,Delayed post-traumatic splenic rupture: 95, DI1
+24,Hemoperitoneum: 90
+24,Hypovolemic shock: 85
+25,1. Epidural hematoma (92)
+25,2. Acute subdural hematoma (65)
+25,3. Traumatic intracranial hemorrhage with mass effect (48), DI1
+25,4. Cerebral edema with raised ICP (35)
+26,Malaria 95, DI1
+26,Zika virus infection 80
+26,Dengue 70
+26,Cutaneous leishmaniasis 55
+26,Yellow fever 15
+27,1. Familial adenomatous polyposis (85), DI1
+27,2. MUTYH-associated polyposis (55)
+27,3. Attenuated familial adenomatous polyposis (40)
+28,1. Prolactinoma (88)
+28,2. Medication-induced hyperprolactinemia (42)
+28,3. Primary hypothyroidism (35)
+28,4. Idiopathic hyperprolactinemia (28), DI1
+28,5. Non-functioning pituitary macroadenoma (stalk effect) (22)
+29,Osteoporosis (prevention/risk): 85, DI1
+29,Hypertension: 100
+29,Diabetes mellitus: 100
+29,Tobacco use disorder: 100
+29,Menopause: 100
+29,Atherosclerotic cardiovascular disease (risk): 70
+30,1. Peripheral artery disease (atherosclerotic) - 95, DI1
+30,2. Carotid artery stenosis - 85
+30,3. Renovascular hypertension (renal artery stenosis) - 70
+30,4. Lumbar spinal stenosis - 15

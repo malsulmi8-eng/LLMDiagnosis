@@ -1,0 +1,170 @@
+1,1, Hemorrhagic (hypovolemic) shock secondary to acute upper gastrointestinal bleeding , 99/100, NDI
+1,2, Bleeding peptic ulcer , 75/100
+1,3, Erosive gastritis or duodenitis with hemorrhage , 50/100
+1,4, Esophageal or gastric variceal hemorrhage , 40/100
+1,5, Mallory–Weiss tear , 35/100
+1,6, Bleeding Dieulafoy lesion , 20/100
+2,1, Cytomegalovirus (CMV) pneumonitis , 99/100, DI1
+2,2, Adenovirus pneumonia , 4/100
+2,3, Herpes simplex virus (HSV) pneumonitis , 2/100
+3,1, Acute pulmonary embolism , 98/100, DI1
+3,2, Right lower-extremity deep vein thrombosis , 90/100
+3,3, Acute coronary syndrome , 15/100
+3,4, Pneumothorax , 12/100
+3,5, Pneumonia with pleurisy , 10/100
+3,6, Postoperative atelectasis , 8/100
+4,1, Takotsubo syndrome (stress-induced cardiomyopathy) , 98/100
+4,2, Coronary vasospasm causing myocardial infarction with nonobstructive coronary arteries , 25/100, DI1
+4,3, Acute myocarditis , 15/100
+4,4, Transient coronary thrombosis with spontaneous reperfusion , 12/100
+4,5, Hypertensive emergency with acute myocardial injury , 10/100
+4,6, Coronary microvascular dysfunction causing myocardial ischemia , 8/100
+5,1, Acute rheumatic fever , 85/100, DI1
+5,2, Adult-onset Still disease , 65/100
+5,3, Systemic lupus erythematosus , 55/100
+5,4, Disseminated gonococcal infection , 45/100
+5,5, Viral arthritis , 35/100
+5,6, Reactive arthritis , 30/100
+5,7, Infective endocarditis , 25/100
+5,8, Early rheumatoid arthritis , 20/100
+6,1, Graves disease , 98/100, DI1
+6,2, Toxic multinodular goiter , 15/100
+6,3, Toxic thyroid adenoma , 10/100
+6,4, Painless thyroiditis , 6/100
+6,5, Exogenous thyroid hormone–induced thyrotoxicosis , 4/100
+6,6, TSH-secreting pituitary adenoma , 2/100
+7,1, Major depressive disorder , 98/100, DI1
+7,2, Bipolar II disorder, current depressive episode , 12/100
+7,3, Adjustment disorder with depressed mood , 8/100
+7,4, Persistent depressive disorder , 4/100
+8,1, Pediatric obstructive sleep apnea , 98/100, DI1
+8,2, Upper airway resistance syndrome , 30/100
+8,3, Primary snoring , 20/100
+8,4, Central sleep apnea , 15/100
+8,5, Periodic limb movement disorder , 10/100
+8,6, Narcolepsy , 5/100
+8,7, Attention-deficit/hyperactivity disorder , 5/100
+9,1, Trichinellosis (*Trichinella spiralis* infection) , 99/100, DI1
+9,2, Toxocariasis (visceral larva migrans) , 18/100
+9,3, Acute eosinophilic pneumonia , 12/100
+9,4, Strongyloidiasis , 6/100
+9,5, Acute schistosomiasis (Katayama syndrome) , 4/100
+10,1, Endometriosis , 92/100, DI1
+10,2, Adenomyosis , 80/100
+10,3, Uterine leiomyomas (fibroids) , 65/100
+10,4, Chronic pelvic inflammatory disease , 40/100
+10,5, Endometrial polyps , 35/100
+10,6, Pelvic adhesions , 30/100
+11,1, Primary hypothyroidism, most likely Hashimoto thyroiditis , **99/100**, DI1
+11,2, Central hypothyroidism (pituitary or hypothalamic dysfunction) , **15/100**, 
+11,3, Major depressive disorder , **5/100**
+11,4, Anemia , **3/100**
+12,1, Acute pneumococcal meningitis (*Streptococcus pneumoniae*) , 96/100, DI1
+12,2, *Haemophilus influenzae* meningitis , 30/100
+12,3, Meningococcal meningitis (*Neisseria meningitidis*) , 20/100
+12,4, Post-traumatic staphylococcal meningitis , 15/100
+12,5, Post-traumatic aseptic (chemical) meningitis , 10/100
+13,1, Acute epiglottitis (supraglottitis), particularly due to *Haemophilus influenzae* type b , 98/100, DI1
+13,2, Retropharyngeal abscess , 65/100
+13,3, Peritonsillar abscess , 40/100
+13,4, Bacterial tracheitis , 30/100
+13,5, Pharyngeal or esophageal foreign body , 15/100
+13,6, Laryngeal diphtheria , 10/100
+13,7, Viral croup , 5/100
+14,1, Paroxysmal nocturnal hemoglobinuria (PNH) , 98/100, DI
+14,2, DAT-negative autoimmune hemolytic anemia , 12/100
+14,3, Pregnancy-associated thrombotic microangiopathy, particularly thrombotic thrombocytopenic purpura (TTP) , 8/100
+14,4, Glucose-6-phosphate dehydrogenase (G6PD) deficiency , 6/100
+14,5, Hereditary spherocytosis , 5/100
+14,6, Vitamin B12 or folate deficiency with megaloblastic anemia , 4/100
+15,1, Paroxysmal atrial fibrillation with cardioembolic stroke , **95/100**, DI1
+15,2, Paroxysmal atrial flutter , **45/100**
+15,3, Paroxysmal supraventricular tachycardia , **30/100**
+15,4, Sinus node dysfunction with tachycardia–bradycardia syndrome , **20/100**
+15,5, Symptomatic premature atrial contractions , **15/100**
+16,1, Foreign body aspiration into the right bronchial tree , 98/100, DI1
+16,2, New-onset asthma with acute bronchospasm , 15/100
+16,3, Irritant-induced bronchospasm , 10/100
+16,4, Viral-induced wheezing , 5/100
+16,5, Focal mucus plugging , 3/100
+17,1, Asymptomatic cervical high-risk HPV infection , **99/100**
+17,2, Occult cervical intraepithelial neoplasia grade 1 (CIN 1) , **15/100**, DI1
+17,3, Occult high-grade cervical intraepithelial neoplasia (CIN 2 or CIN 3) , **5/100**
+17,4, Invasive cervical carcinoma , **1/100**
+18,1, Acute decompensated congestive heart failure , 98/100, DI1
+18,2, Ischemic cardiomyopathy , 55/100
+18,3, Valvular heart disease causing heart failure , 45/100
+18,4, Renal failure with volume overload , 30/100
+18,5, Pulmonary hypertension with right-sided heart failure , 20/100
+18,6, Constrictive pericarditis , 15/100
+19,1, Chronic obstructive pulmonary disease (COPD), emphysema-predominant , 98/100, DI1
+19,2, Chronic bronchitis , 80/100
+19,3, COPD-associated pulmonary hypertension with cor pulmonale , 65/100
+19,4, Congestive heart failure , 40/100
+19,5, Asthma–COPD overlap , 30/100
+19,6, Lung malignancy , 25/100
+20,1, Sporadic Creutzfeldt–Jakob disease , 88/100, DI1
+20,2, Frontotemporal dementia, behavioral variant , 65/100
+20,3, Alzheimer disease with rapidly progressive course , 55/100
+20,4, Vascular dementia or mixed Alzheimer–vascular dementia , 35/100
+20,5, Dementia with Lewy bodies , 25/100
+20,6, Autoimmune or paraneoplastic encephalitis , 20/100
+20,7, Chronic subdural hematoma , 15/100
+21,1, Giardiasis (*Giardia duodenalis*) , 99/100, DI1
+21,2, Cryptosporidiosis (*Cryptosporidium* spp.) , 5/100
+21,3, Cyclosporiasis (*Cyclospora cayetanensis*) , 4/100
+21,4, Amoebiasis (*Entamoeba histolytica*) , 2/100
+21,5, Cystoisosporiasis (*Cystoisospora belli*) , 1/100
+22,1, Pulmonary aspergilloma (Aspergillus fungal ball in a post-tuberculous cavity) , **99/100**, DI1
+22,2, Chronic cavitary pulmonary aspergillosis , **30/100**
+22,3, Non-Aspergillus pulmonary fungal ball (e.g., Scedosporium) , **10/100**
+22,4, Recurrent cavitary pulmonary tuberculosis , **4/100**
+22,5, Cavitating lung carcinoma , **2/100**
+23,1, Dengue hemorrhagic fever , 98/100, DI1
+23,2, Malaria , 25/100
+23,3, Chikungunya , 20/100
+23,4, Leptospirosis , 15/100
+23,5, Hantavirus-associated hemorrhagic fever with renal syndrome , 12/100
+23,6, Typhoid fever , 8/100
+24,1, Community-acquired bacterial pneumonia, particularly pneumococcal pneumonia , 96/100, DI1
+24,2, Post-viral secondary bacterial pneumonia, including *Staphylococcus aureus* pneumonia , 85/100
+24,3, Atypical pneumonia, such as *Mycoplasma pneumoniae* infection , 45/100
+24,4, Viral pneumonia, including influenza , 35/100
+24,5, Parapneumonic pleural effusion , 30/100
+24,6, Acute bronchitis with bronchospasm , 20/100
+24,7, Pulmonary embolism with pulmonary infarction , 8/100
+25,1, Acute hematogenous osteomyelitis of the distal femur , 95/100, DI1
+25,2, Septic arthritis of the right knee, potentially associated with adjacent osteomyelitis , 90/100
+25,3, Ewing sarcoma , 45/100
+25,4, Osteosarcoma of the distal femur , 30/100
+25,5, Pyomyositis or deep thigh abscess , 20/100
+25,6, Langerhans cell histiocytosis (eosinophilic granuloma) , 15/100
+26,1, Unruptured tubal ectopic pregnancy , 95/100, DI1
+26,2, Early intrauterine pregnancy loss , 35/100
+26,3, Early viable intrauterine pregnancy with inaccurate dating , 15/100
+26,4, Heterotopic pregnancy , 12/100
+26,5, Ovarian ectopic pregnancy , 8/100
+26,6, Interstitial ectopic pregnancy , 6/100
+26,7, Abdominal ectopic pregnancy , 3/100
+27,1, Severe iron-deficiency anemia , **100/100**, DI1
+27,2, Iron-deficiency anemia due to heavy menstrual bleeding , **55/100**
+27,3, Nutritional iron-deficiency anemia , **50/100**
+27,4, Celiac disease causing iron malabsorption , **25/100**
+27,5, Chronic gastrointestinal blood loss , **15/100**
+27,6, Thalassemia trait with concurrent iron deficiency , **10/100**
+27,7, Anemia of chronic inflammation with concurrent iron deficiency , **5/100**
+28,1, Lyme arthritis , 90/100, DI1
+28,2, Acute bacterial septic arthritis , 55/100
+28,3, Reactive arthritis , 30/100
+28,4, Acute hematogenous osteomyelitis adjacent to the knee , 25/100
+28,5, Oligoarticular juvenile idiopathic arthritis , 15/100
+28,6, Viral arthritis , 10/100
+29,1, Kawasaki disease , 99/100, DI1
+29,2, Scarlet fever , 20/100
+29,3, Multisystem inflammatory syndrome in children (MIS-C) , 15/100
+29,4, Adenovirus infection , 10/100
+29,5, Measles , 5/100
+29,6, Toxic shock syndrome , 3/100
+30,1, Posterior elbow dislocation involving the ulnohumeral and radiocapitellar joints , **100/100**, DI1
+30,2, Complex posterior elbow fracture-dislocation, including a terrible triad injury , **20/100**
+30,3, Posterior transolecranon fracture-dislocation , **5/100**
