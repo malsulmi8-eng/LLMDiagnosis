@@ -1,0 +1,30 @@
+1,sepsis/Septic shock, PMC1065094, PMC139421, PMC1414012
+2,Cytomegalovirus (CMV), PMC1664570, PMC2194717, PMC2432058
+3,pulmonary embolism, PMC1557485, PMC2020460, PMC2045103
+4,myocardial infarction, PMC1236947, PMC1283745, PMC1402267
+5,acute rheumatic fever, PMC2128518, PMC2131094, PMC2131577
+6,Graves disease, PMC2971487, PMC3154526, PMC3206356
+7,depression and anxiety, PMC1183226, PMC1343544, PMC1550568
+8,Obstructive Sleep Apnea, PMC1551912, PMC1551917, PMC2699830
+9,Trichinosis, PMC3079684, PMC1764191
+10,endometriosis, PMC2686950, PMC2700667, PMC2766896
+11,Hypothyroidism
+12,Bacterial Meningitis
+13,Epiglottitis
+14,Paroxysmal nocturnal hemoglobinuria
+15,Paroxysmal atrial fibrillation
+16,Foreign Body Aspiration
+17,Cervical Cancer precursor
+18,Congestive Heart Failure
+19,Chronic Obstructive Pulmonary Disease
+20,Creutzfeldt-Jakob disease
+21,Giardiasis
+22,Aspergillosis / Aspergilloma
+23,Dengue
+24,Community Acquired Pneumonia (CAP)
+25,osteomyelitis
+26,ectopic pregnancy
+27,Iron-Deficiency Anemia
+28,Lyme arthritis
+29,Kawasaki disease
+30,elbow dislocation
